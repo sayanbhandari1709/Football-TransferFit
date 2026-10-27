@@ -1,78 +1,112 @@
-# LaLiga 2022/23 – 2024/25 — research dataset
+# Football Player Transfer Adaptation Intelligence
 
-13 Parquet files (1.5 MB total). Spanish first division (`La Liga`, `competition_id = 795`),
-three completed seasons. Player-level, season granularity, plus market valuations.
+**TransferFit** is a machine-learning research project focused on predicting how well a football player may adapt after transferring to a new club.
+
+The project investigates player performance, historical transfer information, and source/target club context to estimate player adaptation and support better transfer decisions.
+
+---
+
+## Dataset: LaLiga 2022/23–2024/25
+
+13 Parquet files containing Spanish first-division football data (`competition_id = 795`) across three completed seasons.
 
 | Season | `season_id` | `super_season_id` | Span |
-|---|---|---|---|
+|---|---:|---:|---|
 | 2022/2023 | 188124 | 2023 | 2022-08-12 → 2023-06-04 |
 | 2023/2024 | 189012 | 2024 | 2023-08-11 → 2024-05-26 |
 | 2024/2025 | 189974 | 2025 | 2024-08-17 → 2025-05-25 |
 
-## Files
+### Dataset contents
 
-**Keys / lookups**
-- `competitions` (1) — the competition itself
-- `seasons` (3), `super_seasons` (3) — see the join note below, this matters
-- `areas` (263) — country lookup for `teams.area_id`, `players.birth_area_id`,
-  `players.passport_area_id`, `players.second_citizenship_area_id`
+**Keys and lookups**
+- `competitions` (1)
+- `seasons` (3)
+- `super_seasons` (3)
+- `areas` (263)
 
 **Entities**
-- `teams` (24) — 20 per season; the extra 4 are promotion/relegation churn
-- `players` (1,265) — distinct players across the three seasons
-- `player_careers` (2,223) — **squad membership per season**, incl. `shirt_number`.
-  Grain: one row per (player, team, season).
+- `teams` (24)
+- `players` (1,265)
+- `player_careers` (2,223)
 
 **Valuations**
-- `player_valuations` (8,433) — `market_value` in EUR, no nulls. Window 2022-07-01 → 2025-06-30
-  (deliberately wider than the match calendar so pre-season transfer windows are included).
-  Covers 1,132 of the 1,265 players (89.5%); the rest have no valuation on record.
+- `player_valuations` (8,433)
+- Market values in EUR, covering 1,132 of 1,265 players.
 
-**Season statistics** (1,805 player-seasons: 596 / 608 / 601)
-- `player_season_stats` — the spine. Grain: (player, team, competition, super_season).
-  Carries `player_season_stats_id`, `matches`, `matches_started`, `wins`, `positions` (JSON).
-- `player_season_stats_total` (107 cols) — raw counting stats
-- `player_season_stats_average` (100 cols) — per-match averages
-- `player_season_stats_per90` (97 cols) — per-90-minutes rates
-- `player_season_stats_percent` (35 cols) — success percentages
+**Season statistics**
+- `player_season_stats` (1,805 player-seasons)
+- `player_season_stats_total` (107 columns)
+- `player_season_stats_average` (100 columns)
+- `player_season_stats_per90` (97 columns)
+- `player_season_stats_percent` (35 columns)
 
-All four roll-ups join 1:1 to the spine on `player_season_stats_id`, with full coverage
-(0 missing rows, 0 nulls in `minutes_played` / `goals` / `assists` / `passes`).
+All four statistical roll-ups join to the main statistics table through `player_season_stats_id`.
 
-## The one join gotcha
+### Important join relationship
 
-Squad data is keyed by **`season_id`**, statistics by **`super_season_id`**. They are not the
-same number. Go through the `seasons` table to move between them:
+Squad data uses `season_id`, whereas player statistics use `super_season_id`. The `seasons` table provides the mapping between them.
 
 ```python
 import pandas as pd
 
-seasons = pd.read_parquet("seasons.parquet")          # season_id <-> super_season_id
-careers = pd.read_parquet("player_careers.parquet")   # keyed by season_id
-stats   = pd.read_parquet("player_season_stats.parquet")  # keyed by super_season_id
+seasons = pd.read_parquet("seasons.parquet")
+careers = pd.read_parquet("player_careers.parquet")
+stats = pd.read_parquet("player_season_stats.parquet")
 
-careers = careers.merge(seasons[["season_id", "super_season_id"]], on="season_id")
-df = careers.merge(stats, on=["player_id", "team_id", "super_season_id"], how="left")
-df = df.merge(pd.read_parquet("player_season_stats_total.parquet"),
-              on="player_season_stats_id", how="left")
+careers = careers.merge(
+    seasons[["season_id", "super_season_id"]],
+    on="season_id"
+)
+
+df = careers.merge(
+    stats,
+    on=["player_id", "team_id", "super_season_id"],
+    how="left"
+)
+
+df = df.merge(
+    pd.read_parquet("player_season_stats_total.parquet"),
+    on="player_season_stats_id",
+    how="left"
+)
 ```
 
-The `how="left"` is intentional: 2,223 registrations vs 1,805 stat rows, because a registered
-player who never appeared has no statistics row.
+The left join preserves registered players who did not appear in matches and therefore have no statistics row.
 
-## Known gaps
+### Known dataset limitations
 
-- **No team-level season statistics.** `team_season_stats` and its three roll-ups exist in the
-  source schema but are empty upstream (0 rows for every competition, not just LaLiga), so they
-  are not shipped. Team aggregates have to be derived from the player rows.
-- Nothing at match granularity, no financial metrics, no model predictions — out of scope by
-  design.
+- Team-level season statistics are unavailable in the source snapshot.
+- The dataset does not contain match-level records.
+- Some players have no recorded market valuation.
+- Team aggregates must be derived from player-level statistics if required.
 
-## Notes on types
+### Data provenance
 
-`numeric` columns were cast to `float64` and `jsonb` columns to JSON strings so the files load
-cleanly in pandas/DuckDB without decimal or struct handling. Internal ingestion columns
-(`created_at`, `updated_at`) and `players.image_url` were dropped.
+Source: `soccersolver_unified`, schema `sports`, snapshot dated 2026-08-11.
 
-Source: `soccersolver_unified`, schema `sports`, snapshot of 2026-08-11. See `_meta.json` for the
-exact provenance and `_manifest.csv` for per-file row/column counts.
+Refer to `_meta.json` and `_manifest.csv` for provenance and file-level metadata.
+
+---
+
+## Project objective
+
+TransferFit aims to:
+
+1. Analyze a player's previous performance.
+2. Consider the source and target club environments.
+3. Estimate potential adaptation after a transfer.
+4. Generate an Adaptation Score (0–100).
+5. Support transfer-risk assessment and recruitment decisions.
+
+## Technologies
+
+- Python
+- Pandas and NumPy
+- Scikit-learn
+- Streamlit
+- Machine Learning
+- Parquet datasets
+
+---
+
+*Research prototype. Predictions are intended as decision-support estimates, not definitive judgments of player performance.*
