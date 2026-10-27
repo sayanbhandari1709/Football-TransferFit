@@ -1,0 +1,1381 @@
+player_id,player_name,valuation_date,market_value,club,club_id
+811778,Álvaro Carreras,2022-07-01,2000000.00,Manchester United,985
+811778,Álvaro Carreras,2022-10-27,2500000.00,Preston North End,466
+811778,Álvaro Carreras,2023-03-24,6000000.00,Preston North End,466
+811778,Álvaro Carreras,2023-06-01,7000000.00,Manchester United,985
+811778,Álvaro Carreras,2023-12-22,7000000.00,Granada CF,16795
+811778,Álvaro Carreras,2024-06-06,7000000.00,SL Benfica,294
+811778,Álvaro Carreras,2024-10-08,8000000.00,SL Benfica,294
+811778,Álvaro Carreras,2024-12-19,18000000.00,SL Benfica,294
+811778,Álvaro Carreras,2025-03-31,28000000.00,SL Benfica,294
+811778,Álvaro Carreras,2025-05-30,35000000.00,SL Benfica,294
+811778,Álvaro Carreras,2025-10-02,50000000.00,Real Madrid,418
+811778,Álvaro Carreras,2025-12-12,60000000.00,Real Madrid,418
+811778,Álvaro Carreras,2026-06-05,50000000.00,Real Madrid,418
+280730,Álvaro Odriozola,2016-08-01,300000.00,Real Sociedad B,9899
+280730,Álvaro Odriozola,2017-02-02,300000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2017-03-29,1000000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2017-06-05,7500000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2017-08-17,10000000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2018-01-01,20000000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2018-03-22,25000000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2018-05-30,25000000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2018-07-15,30000000.00,Real Madrid,418
+280730,Álvaro Odriozola,2018-12-21,30000000.00,Real Madrid,418
+280730,Álvaro Odriozola,2019-06-11,25000000.00,Real Madrid,418
+280730,Álvaro Odriozola,2019-12-20,20000000.00,Real Madrid,418
+280730,Álvaro Odriozola,2020-04-08,16000000.00,Bayern Munich,27
+280730,Álvaro Odriozola,2020-10-08,14000000.00,Real Madrid,418
+280730,Álvaro Odriozola,2021-01-05,10000000.00,Real Madrid,418
+280730,Álvaro Odriozola,2021-06-10,10000000.00,Real Madrid,418
+280730,Álvaro Odriozola,2021-12-28,10000000.00,ACF Fiorentina,430
+280730,Álvaro Odriozola,2022-03-15,13000000.00,ACF Fiorentina,430
+280730,Álvaro Odriozola,2022-06-07,12000000.00,ACF Fiorentina,430
+280730,Álvaro Odriozola,2022-09-23,10000000.00,Real Madrid,418
+280730,Álvaro Odriozola,2022-11-07,6000000.00,Real Madrid,418
+280730,Álvaro Odriozola,2023-03-23,5000000.00,Real Madrid,418
+280730,Álvaro Odriozola,2023-06-13,5000000.00,Real Madrid,418
+280730,Álvaro Odriozola,2023-10-13,4000000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2023-12-22,3000000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2024-06-07,2500000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2024-10-11,1500000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2024-12-27,1200000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2025-06-09,1000000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2025-10-02,800000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2025-12-12,800000.00,Real Sociedad,681
+280730,Álvaro Odriozola,2026-06-05,800000.00,Real Sociedad,681
+404839,Andriy Lunin,2017-01-03,300000.00,,
+404839,Andriy Lunin,2017-06-26,700000.00,,
+404839,Andriy Lunin,2018-01-12,2000000.00,Zorya Lugansk,10690
+404839,Andriy Lunin,2018-05-14,3500000.00,Zorya Lugansk,10690
+404839,Andriy Lunin,2018-07-12,8500000.00,Real Madrid,418
+404839,Andriy Lunin,2018-10-31,5000000.00,CD Leganés,1244
+404839,Andriy Lunin,2018-12-21,5000000.00,CD Leganés,1244
+404839,Andriy Lunin,2019-06-11,7500000.00,CD Leganés,1244
+404839,Andriy Lunin,2019-12-20,3000000.00,Real Valladolid CF,366
+404839,Andriy Lunin,2020-04-08,2700000.00,Real Oviedo,2497
+404839,Andriy Lunin,2020-10-08,3000000.00,Real Madrid,418
+404839,Andriy Lunin,2021-01-05,3000000.00,Real Madrid,418
+404839,Andriy Lunin,2021-05-27,3000000.00,Real Madrid,418
+404839,Andriy Lunin,2021-12-30,2000000.00,Real Madrid,418
+404839,Andriy Lunin,2022-06-03,2500000.00,Real Madrid,418
+404839,Andriy Lunin,2022-11-07,4000000.00,Real Madrid,418
+404839,Andriy Lunin,2023-03-23,5000000.00,Real Madrid,418
+404839,Andriy Lunin,2023-06-13,5000000.00,Real Madrid,418
+404839,Andriy Lunin,2023-12-22,8000000.00,Real Madrid,418
+404839,Andriy Lunin,2024-03-21,16000000.00,Real Madrid,418
+404839,Andriy Lunin,2024-06-07,25000000.00,Real Madrid,418
+404839,Andriy Lunin,2024-12-27,20000000.00,Real Madrid,418
+404839,Andriy Lunin,2025-06-09,18000000.00,Real Madrid,418
+404839,Andriy Lunin,2025-12-12,15000000.00,Real Madrid,418
+404839,Andriy Lunin,2026-06-05,12000000.00,Real Madrid,418
+495621,Antonio Blanco,2019-09-10,200000.00,Real Madrid Castilla,6767
+495621,Antonio Blanco,2020-02-11,200000.00,Real Madrid Castilla,6767
+495621,Antonio Blanco,2020-10-08,200000.00,Real Madrid Castilla,6767
+495621,Antonio Blanco,2021-01-08,400000.00,Real Madrid Castilla,6767
+495621,Antonio Blanco,2021-03-19,700000.00,Real Madrid Castilla,6767
+495621,Antonio Blanco,2021-06-30,5000000.00,Real Madrid Castilla,6767
+495621,Antonio Blanco,2021-12-30,5000000.00,Real Madrid Castilla,6767
+495621,Antonio Blanco,2022-06-29,5000000.00,Real Madrid Castilla,6767
+495621,Antonio Blanco,2022-11-07,3500000.00,Cádiz CF,2687
+495621,Antonio Blanco,2023-06-14,2500000.00,Deportivo Alavés,1108
+495621,Antonio Blanco,2023-07-12,5000000.00,Real Madrid,418
+495621,Antonio Blanco,2023-12-22,5000000.00,Deportivo Alavés,1108
+495621,Antonio Blanco,2024-06-07,7500000.00,Deportivo Alavés,1108
+495621,Antonio Blanco,2024-12-27,7500000.00,Deportivo Alavés,1108
+495621,Antonio Blanco,2025-06-09,10000000.00,Deportivo Alavés,1108
+495621,Antonio Blanco,2025-12-12,10000000.00,Deportivo Alavés,1108
+495621,Antonio Blanco,2026-06-05,10000000.00,Deportivo Alavés,1108
+86202,Antonio Rüdiger,2011-07-22,100000.00,VfB Stuttgart II,102
+86202,Antonio Rüdiger,2011-08-25,150000.00,VfB Stuttgart II,102
+86202,Antonio Rüdiger,2012-01-11,200000.00,VfB Stuttgart II,102
+86202,Antonio Rüdiger,2012-03-05,300000.00,VfB Stuttgart II,102
+86202,Antonio Rüdiger,2012-06-27,500000.00,VfB Stuttgart II,102
+86202,Antonio Rüdiger,2013-01-13,1000000.00,VfB Stuttgart,79
+86202,Antonio Rüdiger,2013-03-11,1500000.00,VfB Stuttgart,79
+86202,Antonio Rüdiger,2013-06-30,2750000.00,VfB Stuttgart,79
+86202,Antonio Rüdiger,2013-11-05,4500000.00,VfB Stuttgart,79
+86202,Antonio Rüdiger,2014-02-12,6000000.00,VfB Stuttgart,79
+86202,Antonio Rüdiger,2014-07-10,7000000.00,VfB Stuttgart,79
+86202,Antonio Rüdiger,2014-08-21,10000000.00,VfB Stuttgart,79
+86202,Antonio Rüdiger,2015-02-04,10000000.00,VfB Stuttgart,79
+86202,Antonio Rüdiger,2015-07-01,10000000.00,VfB Stuttgart,79
+86202,Antonio Rüdiger,2016-01-04,9000000.00,AS Roma,12
+86202,Antonio Rüdiger,2016-04-01,10000000.00,AS Roma,12
+86202,Antonio Rüdiger,2016-06-01,12000000.00,AS Roma,12
+86202,Antonio Rüdiger,2016-07-15,12000000.00,AS Roma,12
+86202,Antonio Rüdiger,2017-01-02,15000000.00,AS Roma,12
+86202,Antonio Rüdiger,2017-03-28,18000000.00,AS Roma,12
+86202,Antonio Rüdiger,2017-06-08,25000000.00,AS Roma,12
+86202,Antonio Rüdiger,2018-01-02,30000000.00,Chelsea FC,631
+86202,Antonio Rüdiger,2018-03-23,40000000.00,Chelsea FC,631
+86202,Antonio Rüdiger,2018-05-28,40000000.00,Chelsea FC,631
+86202,Antonio Rüdiger,2018-12-19,45000000.00,Chelsea FC,631
+86202,Antonio Rüdiger,2019-06-13,50000000.00,Chelsea FC,631
+86202,Antonio Rüdiger,2019-12-10,50000000.00,Chelsea FC,631
+86202,Antonio Rüdiger,2020-04-08,40000000.00,Chelsea FC,631
+86202,Antonio Rüdiger,2020-10-13,30000000.00,Chelsea FC,631
+86202,Antonio Rüdiger,2020-12-17,25000000.00,Chelsea FC,631
+86202,Antonio Rüdiger,2021-03-18,25000000.00,Chelsea FC,631
+86202,Antonio Rüdiger,2021-06-01,28000000.00,Chelsea FC,631
+86202,Antonio Rüdiger,2021-10-05,35000000.00,Chelsea FC,631
+86202,Antonio Rüdiger,2021-12-23,35000000.00,Chelsea FC,631
+86202,Antonio Rüdiger,2022-06-15,40000000.00,Chelsea FC,631
+86202,Antonio Rüdiger,2022-11-07,40000000.00,Real Madrid,418
+86202,Antonio Rüdiger,2023-06-13,32000000.00,Real Madrid,418
+86202,Antonio Rüdiger,2023-12-22,25000000.00,Real Madrid,418
+86202,Antonio Rüdiger,2024-06-07,25000000.00,Real Madrid,418
+86202,Antonio Rüdiger,2024-12-27,24000000.00,Real Madrid,418
+86202,Antonio Rüdiger,2025-06-09,20000000.00,Real Madrid,418
+86202,Antonio Rüdiger,2025-10-02,15000000.00,Real Madrid,418
+86202,Antonio Rüdiger,2025-12-12,12000000.00,Real Madrid,418
+86202,Antonio Rüdiger,2026-03-16,9000000.00,Real Madrid,418
+86202,Antonio Rüdiger,2026-06-05,6000000.00,Real Madrid,418
+861410,Arda Güler,2021-07-13,100000.00,Fenerbahce,36
+861410,Arda Güler,2021-10-12,650000.00,Fenerbahce,36
+861410,Arda Güler,2022-01-04,750000.00,Fenerbahce,36
+861410,Arda Güler,2022-03-31,2200000.00,Fenerbahce,36
+861410,Arda Güler,2022-06-01,6000000.00,Fenerbahce,36
+861410,Arda Güler,2022-09-13,9000000.00,Fenerbahce,36
+861410,Arda Güler,2022-10-27,10000000.00,Fenerbahce,36
+861410,Arda Güler,2023-03-14,11000000.00,Fenerbahce,36
+861410,Arda Güler,2023-06-08,15000000.00,Fenerbahce,36
+861410,Arda Güler,2023-12-22,15000000.00,Real Madrid,418
+861410,Arda Güler,2024-06-07,30000000.00,Real Madrid,418
+861410,Arda Güler,2024-07-18,45000000.00,Real Madrid,418
+861410,Arda Güler,2024-12-27,45000000.00,Real Madrid,418
+861410,Arda Güler,2025-06-09,45000000.00,Real Madrid,418
+861410,Arda Güler,2025-10-02,60000000.00,Real Madrid,418
+861410,Arda Güler,2025-12-12,90000000.00,Real Madrid,418
+861410,Arda Güler,2026-06-05,90000000.00,Real Madrid,418
+413112,Aurélien Tchouaméni,2018-09-06,5000000.00,FC Girondins Bordeaux,40
+413112,Aurélien Tchouaméni,2018-12-17,5000000.00,FC Girondins Bordeaux,40
+413112,Aurélien Tchouaméni,2019-03-07,7000000.00,FC Girondins Bordeaux,40
+413112,Aurélien Tchouaméni,2019-06-03,7000000.00,FC Girondins Bordeaux,40
+413112,Aurélien Tchouaméni,2019-12-19,14000000.00,FC Girondins Bordeaux,40
+413112,Aurélien Tchouaméni,2020-02-11,17000000.00,AS Monaco,162
+413112,Aurélien Tchouaméni,2020-04-08,15500000.00,AS Monaco,162
+413112,Aurélien Tchouaméni,2020-10-12,16000000.00,AS Monaco,162
+413112,Aurélien Tchouaméni,2021-04-09,25000000.00,AS Monaco,162
+413112,Aurélien Tchouaméni,2021-06-04,30000000.00,AS Monaco,162
+413112,Aurélien Tchouaméni,2021-10-08,35000000.00,AS Monaco,162
+413112,Aurélien Tchouaméni,2021-12-16,40000000.00,AS Monaco,162
+413112,Aurélien Tchouaméni,2022-05-30,60000000.00,AS Monaco,162
+413112,Aurélien Tchouaméni,2022-09-23,80000000.00,Real Madrid,418
+413112,Aurélien Tchouaméni,2022-11-07,80000000.00,Real Madrid,418
+413112,Aurélien Tchouaméni,2022-12-23,90000000.00,Real Madrid,418
+413112,Aurélien Tchouaméni,2023-06-13,85000000.00,Real Madrid,418
+413112,Aurélien Tchouaméni,2023-10-13,90000000.00,Real Madrid,418
+413112,Aurélien Tchouaméni,2023-12-22,90000000.00,Real Madrid,418
+413112,Aurélien Tchouaméni,2024-06-07,100000000.00,Real Madrid,418
+413112,Aurélien Tchouaméni,2024-12-27,80000000.00,Real Madrid,418
+413112,Aurélien Tchouaméni,2025-06-09,75000000.00,Real Madrid,418
+413112,Aurélien Tchouaméni,2025-12-12,75000000.00,Real Madrid,418
+413112,Aurélien Tchouaméni,2026-06-05,70000000.00,Real Madrid,418
+314678,Brahim Díaz,2018-03-23,2500000.00,Manchester City,281
+314678,Brahim Díaz,2018-05-28,5000000.00,Manchester City,281
+314678,Brahim Díaz,2018-12-19,5000000.00,Manchester City,281
+314678,Brahim Díaz,2019-02-28,17000000.00,Real Madrid,418
+314678,Brahim Díaz,2019-06-11,17000000.00,Real Madrid,418
+314678,Brahim Díaz,2019-12-20,15000000.00,Real Madrid,418
+314678,Brahim Díaz,2020-04-08,13500000.00,Real Madrid,418
+314678,Brahim Díaz,2020-10-29,14000000.00,AC Milan,5
+314678,Brahim Díaz,2020-12-29,14000000.00,AC Milan,5
+314678,Brahim Díaz,2021-06-03,15000000.00,AC Milan,5
+314678,Brahim Díaz,2021-10-14,23000000.00,AC Milan,5
+314678,Brahim Díaz,2021-12-28,25000000.00,AC Milan,5
+314678,Brahim Díaz,2022-03-15,22000000.00,AC Milan,5
+314678,Brahim Díaz,2022-06-07,18000000.00,AC Milan,5
+314678,Brahim Díaz,2022-11-11,20000000.00,AC Milan,5
+314678,Brahim Díaz,2023-06-15,20000000.00,AC Milan,5
+314678,Brahim Díaz,2023-12-22,20000000.00,Real Madrid,418
+314678,Brahim Díaz,2024-03-21,35000000.00,Real Madrid,418
+314678,Brahim Díaz,2024-06-07,40000000.00,Real Madrid,418
+314678,Brahim Díaz,2024-12-27,35000000.00,Real Madrid,418
+314678,Brahim Díaz,2025-03-21,45000000.00,Real Madrid,418
+314678,Brahim Díaz,2025-06-09,40000000.00,Real Madrid,418
+314678,Brahim Díaz,2025-12-12,35000000.00,Real Madrid,418
+314678,Brahim Díaz,2026-06-05,35000000.00,Real Madrid,418
+16306,Casemiro,2010-09-06,750000.00,São Paulo Futebol Clube,585
+16306,Casemiro,2010-12-10,1000000.00,São Paulo Futebol Clube,585
+16306,Casemiro,2011-02-21,4000000.00,São Paulo Futebol Clube,585
+16306,Casemiro,2011-05-30,6000000.00,São Paulo Futebol Clube,585
+16306,Casemiro,2011-07-20,8000000.00,São Paulo Futebol Clube,585
+16306,Casemiro,2011-12-08,7500000.00,São Paulo Futebol Clube,585
+16306,Casemiro,2012-02-02,6500000.00,São Paulo Futebol Clube,585
+16306,Casemiro,2012-05-24,6500000.00,São Paulo Futebol Clube,585
+16306,Casemiro,2012-12-05,4500000.00,São Paulo Futebol Clube,585
+16306,Casemiro,2013-02-05,4500000.00,Real Madrid Castilla,6767
+16306,Casemiro,2013-05-09,5000000.00,Real Madrid Castilla,6767
+16306,Casemiro,2013-06-22,6000000.00,Real Madrid Castilla,6767
+16306,Casemiro,2014-01-23,6000000.00,Real Madrid,418
+16306,Casemiro,2014-07-20,6000000.00,FC Porto,720
+16306,Casemiro,2015-02-17,7000000.00,FC Porto,720
+16306,Casemiro,2015-07-01,10000000.00,FC Porto,720
+16306,Casemiro,2015-11-22,15000000.00,Real Madrid,418
+16306,Casemiro,2016-02-22,15000000.00,Real Madrid,418
+16306,Casemiro,2016-04-07,16000000.00,Real Madrid,418
+16306,Casemiro,2016-07-15,20000000.00,Real Madrid,418
+16306,Casemiro,2017-01-24,25000000.00,Real Madrid,418
+16306,Casemiro,2017-06-05,30000000.00,Real Madrid,418
+16306,Casemiro,2018-01-01,40000000.00,Real Madrid,418
+16306,Casemiro,2018-03-22,60000000.00,Real Madrid,418
+16306,Casemiro,2018-05-30,60000000.00,Real Madrid,418
+16306,Casemiro,2018-10-31,70000000.00,Real Madrid,418
+16306,Casemiro,2018-12-21,70000000.00,Real Madrid,418
+16306,Casemiro,2019-06-11,60000000.00,Real Madrid,418
+16306,Casemiro,2019-12-20,70000000.00,Real Madrid,418
+16306,Casemiro,2020-03-05,80000000.00,Real Madrid,418
+16306,Casemiro,2020-04-08,64000000.00,Real Madrid,418
+16306,Casemiro,2020-10-08,65000000.00,Real Madrid,418
+16306,Casemiro,2021-01-05,70000000.00,Real Madrid,418
+16306,Casemiro,2021-06-10,70000000.00,Real Madrid,418
+16306,Casemiro,2021-12-30,60000000.00,Real Madrid,418
+16306,Casemiro,2022-03-21,50000000.00,Real Madrid,418
+16306,Casemiro,2022-06-03,40000000.00,Real Madrid,418
+16306,Casemiro,2022-09-15,50000000.00,Manchester United,985
+16306,Casemiro,2022-11-03,50000000.00,Manchester United,985
+16306,Casemiro,2023-06-20,40000000.00,Manchester United,985
+16306,Casemiro,2023-12-19,30000000.00,Manchester United,985
+16306,Casemiro,2024-05-27,20000000.00,Manchester United,985
+16306,Casemiro,2024-10-01,15000000.00,Manchester United,985
+16306,Casemiro,2024-12-16,12000000.00,Manchester United,985
+16306,Casemiro,2025-05-30,10000000.00,Manchester United,985
+16306,Casemiro,2025-12-09,8000000.00,Manchester United,985
+16306,Casemiro,2026-06-03,6000000.00,Manchester United,985
+319745,Dani Ceballos,2015-01-08,2000000.00,Betis Deportivo Balompié,2865
+319745,Dani Ceballos,2015-07-01,2500000.00,Real Betis Balompié,150
+319745,Dani Ceballos,2015-09-20,5000000.00,Real Betis Balompié,150
+319745,Dani Ceballos,2016-02-22,5000000.00,Real Betis Balompié,150
+319745,Dani Ceballos,2016-07-15,6000000.00,Real Betis Balompié,150
+319745,Dani Ceballos,2017-01-24,6000000.00,Real Betis Balompié,150
+319745,Dani Ceballos,2017-06-05,10000000.00,Real Betis Balompié,150
+319745,Dani Ceballos,2017-08-17,17000000.00,Real Madrid,418
+319745,Dani Ceballos,2018-01-01,17000000.00,Real Madrid,418
+319745,Dani Ceballos,2018-03-22,12000000.00,Real Madrid,418
+319745,Dani Ceballos,2018-05-30,12000000.00,Real Madrid,418
+319745,Dani Ceballos,2018-10-31,20000000.00,Real Madrid,418
+319745,Dani Ceballos,2018-12-21,20000000.00,Real Madrid,418
+319745,Dani Ceballos,2019-06-11,30000000.00,Real Madrid,418
+319745,Dani Ceballos,2019-09-12,45000000.00,Arsenal FC,11
+319745,Dani Ceballos,2019-12-10,40000000.00,Arsenal FC,11
+319745,Dani Ceballos,2020-04-08,32000000.00,Arsenal FC,11
+319745,Dani Ceballos,2020-10-13,32000000.00,Arsenal FC,11
+319745,Dani Ceballos,2021-03-18,30000000.00,Arsenal FC,11
+319745,Dani Ceballos,2021-06-08,27000000.00,Arsenal FC,11
+319745,Dani Ceballos,2021-10-13,20000000.00,Real Madrid,418
+319745,Dani Ceballos,2021-12-30,18000000.00,Real Madrid,418
+319745,Dani Ceballos,2022-03-21,15000000.00,Real Madrid,418
+319745,Dani Ceballos,2022-06-03,14000000.00,Real Madrid,418
+319745,Dani Ceballos,2022-11-07,9000000.00,Real Madrid,418
+319745,Dani Ceballos,2023-03-23,12000000.00,Real Madrid,418
+319745,Dani Ceballos,2023-06-13,12000000.00,Real Madrid,418
+319745,Dani Ceballos,2023-12-22,9000000.00,Real Madrid,418
+319745,Dani Ceballos,2024-03-21,8000000.00,Real Madrid,418
+319745,Dani Ceballos,2024-06-07,6000000.00,Real Madrid,418
+319745,Dani Ceballos,2024-10-11,4000000.00,Real Madrid,418
+319745,Dani Ceballos,2024-12-27,4000000.00,Real Madrid,418
+319745,Dani Ceballos,2025-03-21,10000000.00,Real Madrid,418
+319745,Dani Ceballos,2025-06-09,10000000.00,Real Madrid,418
+319745,Dani Ceballos,2025-10-02,8000000.00,Real Madrid,418
+319745,Dani Ceballos,2025-12-12,8000000.00,Real Madrid,418
+319745,Dani Ceballos,2026-06-05,7000000.00,Real Madrid,418
+138927,Daniel Carvajal,2012-07-14,6000000.00,Bayer 04 Leverkusen,15
+138927,Daniel Carvajal,2013-01-13,8000000.00,Bayer 04 Leverkusen,15
+138927,Daniel Carvajal,2013-06-30,10000000.00,Bayer 04 Leverkusen,15
+138927,Daniel Carvajal,2013-07-25,10000000.00,Real Madrid,418
+138927,Daniel Carvajal,2014-01-23,12000000.00,Real Madrid,418
+138927,Daniel Carvajal,2014-07-20,18000000.00,Real Madrid,418
+138927,Daniel Carvajal,2015-01-23,22000000.00,Real Madrid,418
+138927,Daniel Carvajal,2015-07-01,25000000.00,Real Madrid,418
+138927,Daniel Carvajal,2016-02-22,25000000.00,Real Madrid,418
+138927,Daniel Carvajal,2016-07-15,25000000.00,Real Madrid,418
+138927,Daniel Carvajal,2017-01-24,30000000.00,Real Madrid,418
+138927,Daniel Carvajal,2017-06-05,32000000.00,Real Madrid,418
+138927,Daniel Carvajal,2018-01-01,45000000.00,Real Madrid,418
+138927,Daniel Carvajal,2018-03-22,60000000.00,Real Madrid,418
+138927,Daniel Carvajal,2018-05-30,60000000.00,Real Madrid,418
+138927,Daniel Carvajal,2018-12-21,60000000.00,Real Madrid,418
+138927,Daniel Carvajal,2019-06-11,50000000.00,Real Madrid,418
+138927,Daniel Carvajal,2019-12-20,50000000.00,Real Madrid,418
+138927,Daniel Carvajal,2020-04-08,40000000.00,Real Madrid,418
+138927,Daniel Carvajal,2020-10-08,40000000.00,Real Madrid,418
+138927,Daniel Carvajal,2021-01-05,40000000.00,Real Madrid,418
+138927,Daniel Carvajal,2021-06-10,30000000.00,Real Madrid,418
+138927,Daniel Carvajal,2021-10-13,25000000.00,Real Madrid,418
+138927,Daniel Carvajal,2021-12-30,20000000.00,Real Madrid,418
+138927,Daniel Carvajal,2022-03-21,18000000.00,Real Madrid,418
+138927,Daniel Carvajal,2022-06-03,18000000.00,Real Madrid,418
+138927,Daniel Carvajal,2022-11-07,18000000.00,Real Madrid,418
+138927,Daniel Carvajal,2023-03-23,15000000.00,Real Madrid,418
+138927,Daniel Carvajal,2023-06-13,12000000.00,Real Madrid,418
+138927,Daniel Carvajal,2023-12-22,12000000.00,Real Madrid,418
+138927,Daniel Carvajal,2024-06-07,12000000.00,Real Madrid,418
+138927,Daniel Carvajal,2024-12-27,10000000.00,Real Madrid,418
+138927,Daniel Carvajal,2025-06-09,8000000.00,Real Madrid,418
+138927,Daniel Carvajal,2025-12-12,7000000.00,Real Madrid,418
+138927,Daniel Carvajal,2026-03-16,6000000.00,Real Madrid,418
+138927,Daniel Carvajal,2026-06-05,4000000.00,Real Madrid,418
+59016,David Alaba,2008-06-24,200000.00,Young Violets Austria Wien,4383
+59016,David Alaba,2009-10-13,800000.00,FC Bayern Munich II,28
+59016,David Alaba,2010-01-11,1000000.00,FC Bayern Munich II,28
+59016,David Alaba,2010-07-16,2000000.00,Bayern Munich,27
+59016,David Alaba,2011-01-12,2000000.00,TSG 1899 Hoffenheim,533
+59016,David Alaba,2011-03-01,3000000.00,TSG 1899 Hoffenheim,533
+59016,David Alaba,2011-06-29,5000000.00,TSG 1899 Hoffenheim,533
+59016,David Alaba,2012-01-23,8500000.00,Bayern Munich,27
+59016,David Alaba,2012-06-29,16000000.00,Bayern Munich,27
+59016,David Alaba,2013-01-13,22000000.00,Bayern Munich,27
+59016,David Alaba,2013-06-30,28000000.00,Bayern Munich,27
+59016,David Alaba,2013-11-05,32000000.00,Bayern Munich,27
+59016,David Alaba,2014-07-10,35000000.00,Bayern Munich,27
+59016,David Alaba,2015-02-04,38000000.00,Bayern Munich,27
+59016,David Alaba,2015-07-01,38000000.00,Bayern Munich,27
+59016,David Alaba,2015-10-16,45000000.00,Bayern Munich,27
+59016,David Alaba,2016-02-15,45000000.00,Bayern Munich,27
+59016,David Alaba,2016-06-01,45000000.00,Bayern Munich,27
+59016,David Alaba,2016-07-22,45000000.00,Bayern Munich,27
+59016,David Alaba,2017-02-07,40000000.00,Bayern Munich,27
+59016,David Alaba,2017-06-19,38000000.00,Bayern Munich,27
+59016,David Alaba,2017-12-28,38000000.00,Bayern Munich,27
+59016,David Alaba,2018-04-04,50000000.00,Bayern Munich,27
+59016,David Alaba,2018-06-05,50000000.00,Bayern Munich,27
+59016,David Alaba,2018-12-18,55000000.00,Bayern Munich,27
+59016,David Alaba,2019-06-05,55000000.00,Bayern Munich,27
+59016,David Alaba,2019-12-17,65000000.00,Bayern Munich,27
+59016,David Alaba,2020-04-08,52000000.00,Bayern Munich,27
+59016,David Alaba,2020-07-08,65000000.00,Bayern Munich,27
+59016,David Alaba,2021-02-10,55000000.00,Bayern Munich,27
+59016,David Alaba,2021-05-27,55000000.00,Bayern Munich,27
+59016,David Alaba,2021-12-30,55000000.00,Real Madrid,418
+59016,David Alaba,2022-06-03,55000000.00,Real Madrid,418
+59016,David Alaba,2022-11-07,55000000.00,Real Madrid,418
+59016,David Alaba,2023-03-23,50000000.00,Real Madrid,418
+59016,David Alaba,2023-06-13,40000000.00,Real Madrid,418
+59016,David Alaba,2023-12-22,30000000.00,Real Madrid,418
+59016,David Alaba,2024-03-21,25000000.00,Real Madrid,418
+59016,David Alaba,2024-06-07,20000000.00,Real Madrid,418
+59016,David Alaba,2024-10-11,15000000.00,Real Madrid,418
+59016,David Alaba,2024-12-27,10000000.00,Real Madrid,418
+59016,David Alaba,2025-06-09,6000000.00,Real Madrid,418
+59016,David Alaba,2025-10-02,4000000.00,Real Madrid,418
+59016,David Alaba,2025-12-12,4000000.00,Real Madrid,418
+59016,David Alaba,2026-03-16,3500000.00,Real Madrid,418
+59016,David Alaba,2026-06-05,3000000.00,Real Madrid,418
+890290,Dean Huijsen,2023-06-19,400000.00,Juventus Next Gen,41101
+890290,Dean Huijsen,2023-12-20,2500000.00,Juventus FC,506
+890290,Dean Huijsen,2024-03-12,10000000.00,AS Roma,12
+890290,Dean Huijsen,2024-06-05,10000000.00,AS Roma,12
+890290,Dean Huijsen,2024-10-01,12000000.00,AFC Bournemouth,989
+890290,Dean Huijsen,2024-12-16,18000000.00,AFC Bournemouth,989
+890290,Dean Huijsen,2025-03-18,42000000.00,AFC Bournemouth,989
+890290,Dean Huijsen,2025-05-30,60000000.00,AFC Bournemouth,989
+890290,Dean Huijsen,2025-10-02,70000000.00,Real Madrid,418
+890290,Dean Huijsen,2025-12-12,70000000.00,Real Madrid,418
+890290,Dean Huijsen,2026-03-16,65000000.00,Real Madrid,418
+890290,Dean Huijsen,2026-06-05,60000000.00,Real Madrid,418
+50202,Eden Hazard,2008-05-05,400000.00,,
+50202,Eden Hazard,2008-12-30,1800000.00,LOSC Lille,1082
+50202,Eden Hazard,2009-05-18,4000000.00,LOSC Lille,1082
+50202,Eden Hazard,2009-06-14,5500000.00,LOSC Lille,1082
+50202,Eden Hazard,2009-09-04,7000000.00,LOSC Lille,1082
+50202,Eden Hazard,2009-12-22,7500000.00,LOSC Lille,1082
+50202,Eden Hazard,2010-01-09,9000000.00,LOSC Lille,1082
+50202,Eden Hazard,2010-05-18,14000000.00,LOSC Lille,1082
+50202,Eden Hazard,2010-07-16,16000000.00,LOSC Lille,1082
+50202,Eden Hazard,2011-01-01,18000000.00,LOSC Lille,1082
+50202,Eden Hazard,2011-05-24,22500000.00,LOSC Lille,1082
+50202,Eden Hazard,2011-12-24,26500000.00,LOSC Lille,1082
+50202,Eden Hazard,2012-02-02,27000000.00,LOSC Lille,1082
+50202,Eden Hazard,2012-05-23,33000000.00,LOSC Lille,1082
+50202,Eden Hazard,2012-07-05,40000000.00,Chelsea FC,631
+50202,Eden Hazard,2013-01-28,40000000.00,Chelsea FC,631
+50202,Eden Hazard,2013-07-02,42000000.00,Chelsea FC,631
+50202,Eden Hazard,2014-01-15,45000000.00,Chelsea FC,631
+50202,Eden Hazard,2014-08-12,48000000.00,Chelsea FC,631
+50202,Eden Hazard,2015-02-12,60000000.00,Chelsea FC,631
+50202,Eden Hazard,2015-07-01,70000000.00,Chelsea FC,631
+50202,Eden Hazard,2016-02-09,70000000.00,Chelsea FC,631
+50202,Eden Hazard,2016-06-01,65000000.00,Chelsea FC,631
+50202,Eden Hazard,2016-08-01,65000000.00,Chelsea FC,631
+50202,Eden Hazard,2017-02-20,70000000.00,Chelsea FC,631
+50202,Eden Hazard,2017-06-28,75000000.00,Chelsea FC,631
+50202,Eden Hazard,2018-01-02,100000000.00,Chelsea FC,631
+50202,Eden Hazard,2018-05-28,110000000.00,Chelsea FC,631
+50202,Eden Hazard,2018-07-16,120000000.00,Chelsea FC,631
+50202,Eden Hazard,2018-10-17,150000000.00,Chelsea FC,631
+50202,Eden Hazard,2018-12-19,150000000.00,Chelsea FC,631
+50202,Eden Hazard,2019-06-13,150000000.00,Chelsea FC,631
+50202,Eden Hazard,2019-12-20,120000000.00,Real Madrid,418
+50202,Eden Hazard,2020-03-05,100000000.00,Real Madrid,418
+50202,Eden Hazard,2020-04-08,80000000.00,Real Madrid,418
+50202,Eden Hazard,2020-10-08,60000000.00,Real Madrid,418
+50202,Eden Hazard,2021-01-05,50000000.00,Real Madrid,418
+50202,Eden Hazard,2021-03-19,40000000.00,Real Madrid,418
+50202,Eden Hazard,2021-05-26,40000000.00,Real Madrid,418
+50202,Eden Hazard,2021-10-13,25000000.00,Real Madrid,418
+50202,Eden Hazard,2021-12-30,18000000.00,Real Madrid,418
+50202,Eden Hazard,2022-03-21,16000000.00,Real Madrid,418
+50202,Eden Hazard,2022-06-03,12000000.00,Real Madrid,418
+50202,Eden Hazard,2022-11-07,7500000.00,Real Madrid,418
+50202,Eden Hazard,2023-03-23,5000000.00,Real Madrid,418
+50202,Eden Hazard,2023-06-13,5000000.00,Real Madrid,418
+50202,Eden Hazard,2023-10-10,0.00,,
+401530,Éder Militão,2017-10-30,1000000.00,São Paulo Futebol Clube,585
+401530,Éder Militão,2017-12-07,2000000.00,São Paulo Futebol Clube,585
+401530,Éder Militão,2018-05-23,8000000.00,São Paulo Futebol Clube,585
+401530,Éder Militão,2018-11-01,20000000.00,FC Porto,720
+401530,Éder Militão,2019-01-11,35000000.00,FC Porto,720
+401530,Éder Militão,2019-03-18,50000000.00,FC Porto,720
+401530,Éder Militão,2019-06-07,50000000.00,FC Porto,720
+401530,Éder Militão,2019-12-20,45000000.00,Real Madrid,418
+401530,Éder Militão,2020-03-05,40000000.00,Real Madrid,418
+401530,Éder Militão,2020-04-08,36000000.00,Real Madrid,418
+401530,Éder Militão,2020-10-08,40000000.00,Real Madrid,418
+401530,Éder Militão,2021-01-05,30000000.00,Real Madrid,418
+401530,Éder Militão,2021-06-10,40000000.00,Real Madrid,418
+401530,Éder Militão,2021-12-30,60000000.00,Real Madrid,418
+401530,Éder Militão,2022-06-03,60000000.00,Real Madrid,418
+401530,Éder Militão,2022-11-07,60000000.00,Real Madrid,418
+401530,Éder Militão,2023-03-23,70000000.00,Real Madrid,418
+401530,Éder Militão,2023-06-13,70000000.00,Real Madrid,418
+401530,Éder Militão,2023-12-22,70000000.00,Real Madrid,418
+401530,Éder Militão,2024-06-07,60000000.00,Real Madrid,418
+401530,Éder Militão,2024-12-27,40000000.00,Real Madrid,418
+401530,Éder Militão,2025-06-09,30000000.00,Real Madrid,418
+401530,Éder Militão,2025-12-12,30000000.00,Real Madrid,418
+401530,Éder Militão,2026-03-16,25000000.00,Real Madrid,418
+401530,Éder Militão,2026-06-05,20000000.00,Real Madrid,418
+640428,Eduardo Camavinga,2019-06-03,4000000.00,Stade Rennais FC,273
+640428,Eduardo Camavinga,2019-09-27,20000000.00,Stade Rennais FC,273
+640428,Eduardo Camavinga,2019-12-19,35000000.00,Stade Rennais FC,273
+640428,Eduardo Camavinga,2020-03-13,42000000.00,Stade Rennais FC,273
+640428,Eduardo Camavinga,2020-04-08,37500000.00,Stade Rennais FC,273
+640428,Eduardo Camavinga,2020-10-15,50000000.00,Stade Rennais FC,273
+640428,Eduardo Camavinga,2021-01-07,60000000.00,Stade Rennais FC,273
+640428,Eduardo Camavinga,2021-06-04,55000000.00,Stade Rennais FC,273
+640428,Eduardo Camavinga,2021-12-30,55000000.00,Real Madrid,418
+640428,Eduardo Camavinga,2022-06-03,55000000.00,Real Madrid,418
+640428,Eduardo Camavinga,2022-11-07,50000000.00,Real Madrid,418
+640428,Eduardo Camavinga,2023-03-23,60000000.00,Real Madrid,418
+640428,Eduardo Camavinga,2023-06-13,85000000.00,Real Madrid,418
+640428,Eduardo Camavinga,2023-10-13,90000000.00,Real Madrid,418
+640428,Eduardo Camavinga,2023-12-22,90000000.00,Real Madrid,418
+640428,Eduardo Camavinga,2024-06-07,100000000.00,Real Madrid,418
+640428,Eduardo Camavinga,2024-12-27,80000000.00,Real Madrid,418
+640428,Eduardo Camavinga,2025-03-21,70000000.00,Real Madrid,418
+640428,Eduardo Camavinga,2025-06-09,60000000.00,Real Madrid,418
+640428,Eduardo Camavinga,2025-10-02,50000000.00,Real Madrid,418
+640428,Eduardo Camavinga,2025-12-12,50000000.00,Real Madrid,418
+640428,Eduardo Camavinga,2026-06-05,50000000.00,Real Madrid,418
+971570,Endrick,2022-08-19,15000000.00,SE Palmeiras São Paulo U20,14807
+971570,Endrick,2022-11-14,20000000.00,SE Palmeiras São Paulo U20,14807
+971570,Endrick,2023-04-07,20000000.00,Sociedade Esportiva Palmeiras,1023
+971570,Endrick,2023-07-25,25000000.00,Sociedade Esportiva Palmeiras,1023
+971570,Endrick,2023-12-11,45000000.00,Sociedade Esportiva Palmeiras,1023
+971570,Endrick,2024-03-28,55000000.00,Sociedade Esportiva Palmeiras,1023
+971570,Endrick,2024-06-17,60000000.00,Sociedade Esportiva Palmeiras,1023
+971570,Endrick,2024-12-27,40000000.00,Real Madrid,418
+971570,Endrick,2025-06-09,35000000.00,Real Madrid,418
+971570,Endrick,2025-12-12,25000000.00,Real Madrid,418
+971570,Endrick,2026-03-27,35000000.00,Olympique Lyon,1041
+971570,Endrick,2026-06-01,40000000.00,Olympique Lyon,1041
+369081,Federico Valverde,2015-08-14,400000.00,CA Peñarol,861
+369081,Federico Valverde,2016-02-25,450000.00,CA Peñarol,861
+369081,Federico Valverde,2016-08-01,500000.00,Real Madrid Castilla,6767
+369081,Federico Valverde,2016-10-27,1000000.00,Real Madrid Castilla,6767
+369081,Federico Valverde,2017-02-02,1000000.00,Real Madrid Castilla,6767
+369081,Federico Valverde,2017-06-22,3000000.00,Real Madrid Castilla,6767
+369081,Federico Valverde,2018-01-01,3000000.00,Deportivo A Coruña,897
+369081,Federico Valverde,2018-05-30,6000000.00,Deportivo A Coruña,897
+369081,Federico Valverde,2018-12-21,6000000.00,Real Madrid,418
+369081,Federico Valverde,2019-06-11,20000000.00,Real Madrid,418
+369081,Federico Valverde,2019-12-20,50000000.00,Real Madrid,418
+369081,Federico Valverde,2020-03-05,60000000.00,Real Madrid,418
+369081,Federico Valverde,2020-04-08,54000000.00,Real Madrid,418
+369081,Federico Valverde,2020-10-08,70000000.00,Real Madrid,418
+369081,Federico Valverde,2021-01-05,70000000.00,Real Madrid,418
+369081,Federico Valverde,2021-06-10,65000000.00,Real Madrid,418
+369081,Federico Valverde,2021-12-30,65000000.00,Real Madrid,418
+369081,Federico Valverde,2022-06-03,70000000.00,Real Madrid,418
+369081,Federico Valverde,2022-09-23,80000000.00,Real Madrid,418
+369081,Federico Valverde,2022-11-07,100000000.00,Real Madrid,418
+369081,Federico Valverde,2023-06-13,100000000.00,Real Madrid,418
+369081,Federico Valverde,2023-12-22,100000000.00,Real Madrid,418
+369081,Federico Valverde,2024-06-07,120000000.00,Real Madrid,418
+369081,Federico Valverde,2024-10-11,130000000.00,Real Madrid,418
+369081,Federico Valverde,2024-12-27,130000000.00,Real Madrid,418
+369081,Federico Valverde,2025-06-09,130000000.00,Real Madrid,418
+369081,Federico Valverde,2025-12-12,120000000.00,Real Madrid,418
+369081,Federico Valverde,2026-06-05,90000000.00,Real Madrid,418
+291417,Ferland Mendy,2015-09-06,150000.00,Le Havre AC,738
+291417,Ferland Mendy,2016-02-04,250000.00,Le Havre AC,738
+291417,Ferland Mendy,2016-07-13,300000.00,Le Havre AC,738
+291417,Ferland Mendy,2017-03-20,700000.00,Le Havre AC,738
+291417,Ferland Mendy,2017-06-15,1250000.00,Le Havre AC,738
+291417,Ferland Mendy,2017-10-12,4000000.00,Olympique Lyon,1041
+291417,Ferland Mendy,2018-01-24,7000000.00,Olympique Lyon,1041
+291417,Ferland Mendy,2018-06-04,12000000.00,Olympique Lyon,1041
+291417,Ferland Mendy,2018-12-17,12000000.00,Olympique Lyon,1041
+291417,Ferland Mendy,2019-03-07,30000000.00,Olympique Lyon,1041
+291417,Ferland Mendy,2019-06-03,30000000.00,Olympique Lyon,1041
+291417,Ferland Mendy,2019-09-10,40000000.00,Real Madrid,418
+291417,Ferland Mendy,2019-12-20,35000000.00,Real Madrid,418
+291417,Ferland Mendy,2020-03-05,40000000.00,Real Madrid,418
+291417,Ferland Mendy,2020-04-08,32000000.00,Real Madrid,418
+291417,Ferland Mendy,2020-07-23,40000000.00,Real Madrid,418
+291417,Ferland Mendy,2020-10-08,40000000.00,Real Madrid,418
+291417,Ferland Mendy,2021-01-05,40000000.00,Real Madrid,418
+291417,Ferland Mendy,2021-03-19,50000000.00,Real Madrid,418
+291417,Ferland Mendy,2021-06-10,50000000.00,Real Madrid,418
+291417,Ferland Mendy,2021-12-30,50000000.00,Real Madrid,418
+291417,Ferland Mendy,2022-06-03,40000000.00,Real Madrid,418
+291417,Ferland Mendy,2022-11-07,40000000.00,Real Madrid,418
+291417,Ferland Mendy,2023-03-23,35000000.00,Real Madrid,418
+291417,Ferland Mendy,2023-06-13,25000000.00,Real Madrid,418
+291417,Ferland Mendy,2023-10-13,20000000.00,Real Madrid,418
+291417,Ferland Mendy,2023-12-22,20000000.00,Real Madrid,418
+291417,Ferland Mendy,2024-06-07,22000000.00,Real Madrid,418
+291417,Ferland Mendy,2024-12-27,18000000.00,Real Madrid,418
+291417,Ferland Mendy,2025-06-09,14000000.00,Real Madrid,418
+291417,Ferland Mendy,2025-10-02,10000000.00,Real Madrid,418
+291417,Ferland Mendy,2025-12-12,8000000.00,Real Madrid,418
+291417,Ferland Mendy,2026-03-16,6000000.00,Real Madrid,418
+291417,Ferland Mendy,2026-06-05,4000000.00,Real Madrid,418
+1057316,Franco Mastantuono,2024-03-11,4000000.00,CA River Plate,209
+1057316,Franco Mastantuono,2024-06-12,10000000.00,CA River Plate,209
+1057316,Franco Mastantuono,2024-09-30,13000000.00,CA River Plate,209
+1057316,Franco Mastantuono,2024-12-13,15000000.00,CA River Plate,209
+1057316,Franco Mastantuono,2025-06-02,30000000.00,CA River Plate,209
+1057316,Franco Mastantuono,2025-10-02,50000000.00,Real Madrid,418
+1057316,Franco Mastantuono,2025-12-12,50000000.00,Real Madrid,418
+1057316,Franco Mastantuono,2026-03-16,45000000.00,Real Madrid,418
+1057316,Franco Mastantuono,2026-06-05,45000000.00,Real Madrid,418
+341264,Fran García,2018-11-23,150000.00,Real Madrid Castilla,6767
+341264,Fran García,2019-02-19,200000.00,Real Madrid Castilla,6767
+341264,Fran García,2019-06-29,250000.00,Real Madrid Castilla,6767
+341264,Fran García,2019-09-10,250000.00,Real Madrid Castilla,6767
+341264,Fran García,2020-02-11,250000.00,Real Madrid Castilla,6767
+341264,Fran García,2020-10-08,300000.00,Rayo Vallecano,367
+341264,Fran García,2020-11-23,800000.00,Rayo Vallecano,367
+341264,Fran García,2021-01-08,1500000.00,Rayo Vallecano,367
+341264,Fran García,2021-06-24,3000000.00,Rayo Vallecano,367
+341264,Fran García,2021-12-30,3500000.00,Rayo Vallecano,367
+341264,Fran García,2022-03-21,5000000.00,Rayo Vallecano,367
+341264,Fran García,2022-06-03,7500000.00,Rayo Vallecano,367
+341264,Fran García,2022-11-07,8000000.00,Rayo Vallecano,367
+341264,Fran García,2023-03-23,10000000.00,Rayo Vallecano,367
+341264,Fran García,2023-06-13,12000000.00,Rayo Vallecano,367
+341264,Fran García,2023-10-13,15000000.00,Real Madrid,418
+341264,Fran García,2023-12-22,15000000.00,Real Madrid,418
+341264,Fran García,2024-06-07,15000000.00,Real Madrid,418
+341264,Fran García,2024-12-27,15000000.00,Real Madrid,418
+341264,Fran García,2025-06-09,18000000.00,Real Madrid,418
+341264,Fran García,2025-12-12,15000000.00,Real Madrid,418
+341264,Fran García,2026-03-16,12000000.00,Real Madrid,418
+341264,Fran García,2026-06-05,10000000.00,Real Madrid,418
+39381,Gareth Bale,2006-08-05,50000.00,Southampton FC,180
+39381,Gareth Bale,2006-08-15,300000.00,Southampton FC,180
+39381,Gareth Bale,2006-10-13,400000.00,Southampton FC,180
+39381,Gareth Bale,2007-05-29,7500000.00,Southampton FC,180
+39381,Gareth Bale,2007-08-01,14700000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2007-09-01,14500000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2007-11-19,14750000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2008-02-04,11000000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2008-07-04,9500000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2009-06-26,8500000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2010-01-24,6500000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2010-08-13,10000000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2010-11-03,20000000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2011-02-01,25000000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2011-08-08,25000000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2012-02-06,35000000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2012-06-24,40000000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2013-01-28,42000000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2013-07-02,50000000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2013-08-19,65000000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2013-09-17,80000000.00,Real Madrid,418
+39381,Gareth Bale,2014-01-23,80000000.00,Real Madrid,418
+39381,Gareth Bale,2014-07-20,80000000.00,Real Madrid,418
+39381,Gareth Bale,2015-01-23,80000000.00,Real Madrid,418
+39381,Gareth Bale,2015-07-01,80000000.00,Real Madrid,418
+39381,Gareth Bale,2016-02-22,80000000.00,Real Madrid,418
+39381,Gareth Bale,2016-06-01,80000000.00,Real Madrid,418
+39381,Gareth Bale,2016-07-15,90000000.00,Real Madrid,418
+39381,Gareth Bale,2017-01-24,90000000.00,Real Madrid,418
+39381,Gareth Bale,2017-06-05,80000000.00,Real Madrid,418
+39381,Gareth Bale,2018-01-01,75000000.00,Real Madrid,418
+39381,Gareth Bale,2018-03-22,70000000.00,Real Madrid,418
+39381,Gareth Bale,2018-05-30,90000000.00,Real Madrid,418
+39381,Gareth Bale,2018-12-21,80000000.00,Real Madrid,418
+39381,Gareth Bale,2019-02-28,70000000.00,Real Madrid,418
+39381,Gareth Bale,2019-06-11,60000000.00,Real Madrid,418
+39381,Gareth Bale,2019-12-20,40000000.00,Real Madrid,418
+39381,Gareth Bale,2020-04-08,32000000.00,Real Madrid,418
+39381,Gareth Bale,2020-07-23,28000000.00,Real Madrid,418
+39381,Gareth Bale,2020-10-13,25000000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2020-12-17,20000000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2021-03-18,20000000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2021-05-25,18000000.00,Tottenham Hotspur,148
+39381,Gareth Bale,2021-10-13,10000000.00,Real Madrid,418
+39381,Gareth Bale,2021-12-30,5000000.00,Real Madrid,418
+39381,Gareth Bale,2022-03-21,3000000.00,Real Madrid,418
+39381,Gareth Bale,2022-06-03,3000000.00,Real Madrid,418
+39381,Gareth Bale,2022-08-18,3000000.00,Los Angeles FC,51828
+39381,Gareth Bale,2022-11-08,2000000.00,Los Angeles FC,51828
+39381,Gareth Bale,2023-01-09,0.00,,
+935230,Gonzalo García,2023-08-21,200000.00,Real Madrid Castilla,6767
+935230,Gonzalo García,2023-10-13,400000.00,Real Madrid Castilla,6767
+935230,Gonzalo García,2023-12-20,1000000.00,Real Madrid Castilla,6767
+935230,Gonzalo García,2024-06-24,1000000.00,Real Madrid Castilla,6767
+935230,Gonzalo García,2024-12-18,2000000.00,Real Madrid Castilla,6767
+935230,Gonzalo García,2025-03-27,5000000.00,Real Madrid Castilla,6767
+935230,Gonzalo García,2025-06-25,8000000.00,Real Madrid,418
+935230,Gonzalo García,2025-10-02,15000000.00,Real Madrid,418
+935230,Gonzalo García,2025-12-12,15000000.00,Real Madrid,418
+935230,Gonzalo García,2026-03-16,30000000.00,Real Madrid,418
+935230,Gonzalo García,2026-06-05,30000000.00,Real Madrid,418
+85288,Isco,2011-07-29,2000000.00,Málaga CF,1084
+85288,Isco,2012-02-03,6000000.00,Málaga CF,1084
+85288,Isco,2012-04-14,8000000.00,Málaga CF,1084
+85288,Isco,2012-08-07,12000000.00,Málaga CF,1084
+85288,Isco,2012-11-03,15000000.00,Málaga CF,1084
+85288,Isco,2013-01-11,20000000.00,Málaga CF,1084
+85288,Isco,2013-06-12,25000000.00,Málaga CF,1084
+85288,Isco,2013-07-25,30000000.00,Real Madrid,418
+85288,Isco,2013-09-17,35000000.00,Real Madrid,418
+85288,Isco,2014-01-23,35000000.00,Real Madrid,418
+85288,Isco,2014-07-20,35000000.00,Real Madrid,418
+85288,Isco,2015-01-23,45000000.00,Real Madrid,418
+85288,Isco,2015-07-01,45000000.00,Real Madrid,418
+85288,Isco,2016-02-22,45000000.00,Real Madrid,418
+85288,Isco,2016-04-07,40000000.00,Real Madrid,418
+85288,Isco,2016-07-15,35000000.00,Real Madrid,418
+85288,Isco,2017-01-24,35000000.00,Real Madrid,418
+85288,Isco,2017-06-05,40000000.00,Real Madrid,418
+85288,Isco,2018-01-01,75000000.00,Real Madrid,418
+85288,Isco,2018-05-30,75000000.00,Real Madrid,418
+85288,Isco,2018-10-31,90000000.00,Real Madrid,418
+85288,Isco,2018-12-21,75000000.00,Real Madrid,418
+85288,Isco,2019-02-28,60000000.00,Real Madrid,418
+85288,Isco,2019-06-11,60000000.00,Real Madrid,418
+85288,Isco,2019-12-20,50000000.00,Real Madrid,418
+85288,Isco,2020-04-08,40000000.00,Real Madrid,418
+85288,Isco,2020-10-08,30000000.00,Real Madrid,418
+85288,Isco,2020-11-23,20000000.00,Real Madrid,418
+85288,Isco,2021-01-05,20000000.00,Real Madrid,418
+85288,Isco,2021-06-10,18000000.00,Real Madrid,418
+85288,Isco,2021-10-13,15000000.00,Real Madrid,418
+85288,Isco,2021-12-30,9000000.00,Real Madrid,418
+85288,Isco,2022-03-21,7500000.00,Real Madrid,418
+85288,Isco,2022-06-03,7500000.00,Real Madrid,418
+85288,Isco,2022-11-07,9000000.00,Sevilla FC,368
+85288,Isco,2023-03-28,5000000.00,Without Club,515
+85288,Isco,2023-10-13,8000000.00,Real Betis Balompié,150
+85288,Isco,2023-12-22,8000000.00,Real Betis Balompié,150
+85288,Isco,2024-06-07,8000000.00,Real Betis Balompié,150
+85288,Isco,2024-12-27,6000000.00,Real Betis Balompié,150
+85288,Isco,2025-06-09,6000000.00,Real Betis Balompié,150
+85288,Isco,2025-10-02,5000000.00,Real Betis Balompié,150
+85288,Isco,2025-12-12,4000000.00,Real Betis Balompié,150
+85288,Isco,2026-06-05,3500000.00,Real Betis Balompié,150
+251896,Jesús Vallejo,2015-01-08,400000.00,Real Zaragoza,142
+251896,Jesús Vallejo,2015-04-13,1000000.00,Real Zaragoza,142
+251896,Jesús Vallejo,2015-07-01,2000000.00,Real Zaragoza,142
+251896,Jesús Vallejo,2016-02-22,3000000.00,Real Zaragoza,142
+251896,Jesús Vallejo,2016-07-22,3000000.00,Eintracht Frankfurt,24
+251896,Jesús Vallejo,2016-10-13,4000000.00,Eintracht Frankfurt,24
+251896,Jesús Vallejo,2017-02-07,8000000.00,Eintracht Frankfurt,24
+251896,Jesús Vallejo,2017-06-19,8000000.00,Eintracht Frankfurt,24
+251896,Jesús Vallejo,2017-08-17,15000000.00,Real Madrid,418
+251896,Jesús Vallejo,2018-01-01,15000000.00,Real Madrid,418
+251896,Jesús Vallejo,2018-03-22,12000000.00,Real Madrid,418
+251896,Jesús Vallejo,2018-05-30,12000000.00,Real Madrid,418
+251896,Jesús Vallejo,2018-12-21,10000000.00,Real Madrid,418
+251896,Jesús Vallejo,2019-06-11,10000000.00,Real Madrid,418
+251896,Jesús Vallejo,2019-12-10,10000000.00,Wolverhampton Wanderers,543
+251896,Jesús Vallejo,2020-03-05,7500000.00,Granada CF,16795
+251896,Jesús Vallejo,2020-04-08,6000000.00,Granada CF,16795
+251896,Jesús Vallejo,2020-10-08,6000000.00,Granada CF,16795
+251896,Jesús Vallejo,2021-01-05,5000000.00,Granada CF,16795
+251896,Jesús Vallejo,2021-06-10,5000000.00,Granada CF,16795
+251896,Jesús Vallejo,2021-12-30,3000000.00,Real Madrid,418
+251896,Jesús Vallejo,2022-06-03,3000000.00,Real Madrid,418
+251896,Jesús Vallejo,2022-11-07,2500000.00,Real Madrid,418
+251896,Jesús Vallejo,2023-03-23,2000000.00,Real Madrid,418
+251896,Jesús Vallejo,2023-06-13,2000000.00,Real Madrid,418
+251896,Jesús Vallejo,2023-12-22,1500000.00,Granada CF,16795
+251896,Jesús Vallejo,2024-06-07,1000000.00,Granada CF,16795
+251896,Jesús Vallejo,2024-12-27,1000000.00,Real Madrid,418
+251896,Jesús Vallejo,2025-06-09,1000000.00,Real Madrid,418
+251896,Jesús Vallejo,2025-12-30,1000000.00,Albacete Balompié,1532
+251896,Jesús Vallejo,2026-06-22,1000000.00,Albacete Balompié,1532
+81999,Joselu,2009-08-06,800000.00,Celta de Vigo,940
+81999,Joselu,2009-11-26,900000.00,Celta de Vigo,940
+81999,Joselu,2010-04-05,1400000.00,Celta de Vigo,940
+81999,Joselu,2010-08-12,0.00,Real Madrid Castilla,6767
+81999,Joselu,2012-08-10,7000000.00,TSG 1899 Hoffenheim,533
+81999,Joselu,2013-01-13,6000000.00,TSG 1899 Hoffenheim,533
+81999,Joselu,2013-06-30,4500000.00,TSG 1899 Hoffenheim,533
+81999,Joselu,2013-11-05,3000000.00,Eintracht Frankfurt,24
+81999,Joselu,2014-07-10,5000000.00,Hannover 96,42
+81999,Joselu,2015-02-04,6000000.00,Hannover 96,42
+81999,Joselu,2015-07-01,6000000.00,Stoke City,512
+81999,Joselu,2016-02-09,6000000.00,Stoke City,512
+81999,Joselu,2016-08-01,6000000.00,Stoke City,512
+81999,Joselu,2017-01-24,5000000.00,Deportivo A Coruña,897
+81999,Joselu,2017-06-05,3500000.00,Deportivo A Coruña,897
+81999,Joselu,2018-01-02,4000000.00,Newcastle United,762
+81999,Joselu,2018-05-28,4000000.00,Newcastle United,762
+81999,Joselu,2018-12-19,4000000.00,Newcastle United,762
+81999,Joselu,2019-06-13,4000000.00,Newcastle United,762
+81999,Joselu,2019-12-20,5000000.00,Deportivo Alavés,1108
+81999,Joselu,2020-03-05,7500000.00,Deportivo Alavés,1108
+81999,Joselu,2020-04-08,6000000.00,Deportivo Alavés,1108
+81999,Joselu,2020-10-08,5000000.00,Deportivo Alavés,1108
+81999,Joselu,2021-01-05,4000000.00,Deportivo Alavés,1108
+81999,Joselu,2021-06-10,8000000.00,Deportivo Alavés,1108
+81999,Joselu,2021-10-13,6000000.00,Deportivo Alavés,1108
+81999,Joselu,2021-12-30,6000000.00,Deportivo Alavés,1108
+81999,Joselu,2022-06-03,5000000.00,Deportivo Alavés,1108
+81999,Joselu,2022-11-07,6000000.00,RCD Espanyol Barcelona,714
+81999,Joselu,2023-06-13,6000000.00,RCD Espanyol Barcelona,714
+81999,Joselu,2023-12-22,5000000.00,Real Madrid,418
+81999,Joselu,2024-06-07,5000000.00,Real Madrid,418
+81999,Joselu,2024-12-10,4500000.00,Al-Gharafa SC,6297
+81999,Joselu,2025-05-28,4000000.00,Al-Gharafa SC,6297
+81999,Joselu,2025-12-30,3500000.00,Al-Gharafa SC,6297
+81999,Joselu,2026-05-14,2800000.00,Al-Gharafa SC,6297
+581678,Jude Bellingham,2019-10-17,2500000.00,Birmingham City,337
+581678,Jude Bellingham,2020-02-27,12000000.00,Birmingham City,337
+581678,Jude Bellingham,2020-04-08,11000000.00,Birmingham City,337
+581678,Jude Bellingham,2020-09-16,27000000.00,Borussia Dortmund,16
+581678,Jude Bellingham,2021-02-10,35000000.00,Borussia Dortmund,16
+581678,Jude Bellingham,2021-05-28,55000000.00,Borussia Dortmund,16
+581678,Jude Bellingham,2021-10-07,70000000.00,Borussia Dortmund,16
+581678,Jude Bellingham,2021-12-22,75000000.00,Borussia Dortmund,16
+581678,Jude Bellingham,2022-06-09,80000000.00,Borussia Dortmund,16
+581678,Jude Bellingham,2022-09-21,90000000.00,Borussia Dortmund,16
+581678,Jude Bellingham,2022-11-09,100000000.00,Borussia Dortmund,16
+581678,Jude Bellingham,2022-12-23,110000000.00,Borussia Dortmund,16
+581678,Jude Bellingham,2023-03-29,120000000.00,Borussia Dortmund,16
+581678,Jude Bellingham,2023-06-22,120000000.00,Borussia Dortmund,16
+581678,Jude Bellingham,2023-10-13,150000000.00,Real Madrid,418
+581678,Jude Bellingham,2023-12-22,180000000.00,Real Madrid,418
+581678,Jude Bellingham,2024-06-07,180000000.00,Real Madrid,418
+581678,Jude Bellingham,2024-12-27,180000000.00,Real Madrid,418
+581678,Jude Bellingham,2025-06-09,180000000.00,Real Madrid,418
+581678,Jude Bellingham,2025-12-12,160000000.00,Real Madrid,418
+581678,Jude Bellingham,2026-03-16,140000000.00,Real Madrid,418
+581678,Jude Bellingham,2026-06-05,130000000.00,Real Madrid,418
+581678,Jude Bellingham,2026-07-22,160000000.00,Real Madrid,418
+18922,Karim Benzema,2005-08-07,450000.00,Olympique Lyon,1041
+18922,Karim Benzema,2006-03-13,1200000.00,Olympique Lyon,1041
+18922,Karim Benzema,2006-09-01,2000000.00,Olympique Lyon,1041
+18922,Karim Benzema,2007-05-31,5000000.00,Olympique Lyon,1041
+18922,Karim Benzema,2007-09-20,7500000.00,Olympique Lyon,1041
+18922,Karim Benzema,2007-10-28,12000000.00,Olympique Lyon,1041
+18922,Karim Benzema,2007-12-27,15000000.00,Olympique Lyon,1041
+18922,Karim Benzema,2008-05-05,23000000.00,Olympique Lyon,1041
+18922,Karim Benzema,2008-12-30,27500000.00,Olympique Lyon,1041
+18922,Karim Benzema,2009-05-18,29000000.00,Olympique Lyon,1041
+18922,Karim Benzema,2009-07-22,35000000.00,Real Madrid,418
+18922,Karim Benzema,2009-12-03,35000000.00,Real Madrid,418
+18922,Karim Benzema,2010-04-12,28000000.00,Real Madrid,418
+18922,Karim Benzema,2010-08-27,25000000.00,Real Madrid,418
+18922,Karim Benzema,2011-02-04,25000000.00,Real Madrid,418
+18922,Karim Benzema,2011-07-29,25000000.00,Real Madrid,418
+18922,Karim Benzema,2011-09-03,30000000.00,Real Madrid,418
+18922,Karim Benzema,2012-02-03,35000000.00,Real Madrid,418
+18922,Karim Benzema,2012-08-17,40000000.00,Real Madrid,418
+18922,Karim Benzema,2013-01-10,40000000.00,Real Madrid,418
+18922,Karim Benzema,2013-06-12,34000000.00,Real Madrid,418
+18922,Karim Benzema,2014-01-23,34000000.00,Real Madrid,418
+18922,Karim Benzema,2014-07-20,45000000.00,Real Madrid,418
+18922,Karim Benzema,2015-01-23,50000000.00,Real Madrid,418
+18922,Karim Benzema,2015-07-01,50000000.00,Real Madrid,418
+18922,Karim Benzema,2016-02-22,60000000.00,Real Madrid,418
+18922,Karim Benzema,2016-07-15,60000000.00,Real Madrid,418
+18922,Karim Benzema,2017-01-24,60000000.00,Real Madrid,418
+18922,Karim Benzema,2017-06-05,60000000.00,Real Madrid,418
+18922,Karim Benzema,2018-01-01,50000000.00,Real Madrid,418
+18922,Karim Benzema,2018-05-30,40000000.00,Real Madrid,418
+18922,Karim Benzema,2018-12-21,40000000.00,Real Madrid,418
+18922,Karim Benzema,2019-06-11,40000000.00,Real Madrid,418
+18922,Karim Benzema,2019-12-20,40000000.00,Real Madrid,418
+18922,Karim Benzema,2020-04-08,32000000.00,Real Madrid,418
+18922,Karim Benzema,2020-10-08,25000000.00,Real Madrid,418
+18922,Karim Benzema,2021-01-05,25000000.00,Real Madrid,418
+18922,Karim Benzema,2021-06-01,25000000.00,Real Madrid,418
+18922,Karim Benzema,2021-12-30,25000000.00,Real Madrid,418
+18922,Karim Benzema,2022-06-03,30000000.00,Real Madrid,418
+18922,Karim Benzema,2022-11-07,35000000.00,Real Madrid,418
+18922,Karim Benzema,2023-06-13,25000000.00,Real Madrid,418
+18922,Karim Benzema,2023-10-24,15000000.00,Al-Ittihad Club,8023
+18922,Karim Benzema,2023-12-15,15000000.00,Al-Ittihad Club,8023
+18922,Karim Benzema,2024-06-04,10000000.00,Al-Ittihad Club,8023
+18922,Karim Benzema,2024-12-13,8000000.00,Al-Ittihad Club,8023
+18922,Karim Benzema,2025-05-27,7000000.00,Al-Ittihad Club,8023
+18922,Karim Benzema,2025-12-18,6000000.00,Al-Ittihad Club,8023
+18922,Karim Benzema,2026-06-04,5000000.00,Al-Hilal SFC,1114
+192279,Kepa Arrizabalaga,2012-08-25,500000.00,CD Basconia,6665
+192279,Kepa Arrizabalaga,2014-07-20,1000000.00,Athletic Bilbao,621
+192279,Kepa Arrizabalaga,2015-01-08,1000000.00,SD Ponferradina,4032
+192279,Kepa Arrizabalaga,2015-07-01,1000000.00,Athletic Bilbao,621
+192279,Kepa Arrizabalaga,2016-02-22,1500000.00,Real Valladolid CF,366
+192279,Kepa Arrizabalaga,2016-07-15,1500000.00,Athletic Bilbao,621
+192279,Kepa Arrizabalaga,2017-01-24,3000000.00,Athletic Bilbao,621
+192279,Kepa Arrizabalaga,2017-03-29,5000000.00,Athletic Bilbao,621
+192279,Kepa Arrizabalaga,2017-06-05,8000000.00,Athletic Bilbao,621
+192279,Kepa Arrizabalaga,2018-01-01,20000000.00,Athletic Bilbao,621
+192279,Kepa Arrizabalaga,2018-05-30,20000000.00,Athletic Bilbao,621
+192279,Kepa Arrizabalaga,2018-08-13,40000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2018-10-17,50000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2018-12-19,55000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2019-06-13,60000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2019-12-10,60000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2020-03-09,40000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2020-04-08,32000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2020-07-30,28000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2020-10-13,18000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2020-12-17,15000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2021-03-18,13000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2021-06-08,13000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2021-12-23,10000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2022-06-15,10000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2022-11-03,15000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2023-06-20,18000000.00,Chelsea FC,631
+192279,Kepa Arrizabalaga,2023-12-22,20000000.00,Real Madrid,418
+192279,Kepa Arrizabalaga,2024-03-21,12000000.00,Real Madrid,418
+192279,Kepa Arrizabalaga,2024-06-07,12000000.00,Real Madrid,418
+192279,Kepa Arrizabalaga,2024-12-16,11000000.00,AFC Bournemouth,989
+192279,Kepa Arrizabalaga,2025-05-30,10000000.00,AFC Bournemouth,989
+192279,Kepa Arrizabalaga,2025-10-17,8000000.00,Arsenal FC,11
+192279,Kepa Arrizabalaga,2025-12-09,7000000.00,Arsenal FC,11
+192279,Kepa Arrizabalaga,2026-06-03,5000000.00,Arsenal FC,11
+342229,Kylian Mbappé,2015-12-02,50000.00,,
+342229,Kylian Mbappé,2016-02-04,250000.00,AS Monaco,162
+342229,Kylian Mbappé,2016-04-09,1000000.00,AS Monaco,162
+342229,Kylian Mbappé,2016-07-13,1500000.00,AS Monaco,162
+342229,Kylian Mbappé,2016-11-01,4000000.00,AS Monaco,162
+342229,Kylian Mbappé,2017-01-16,10000000.00,AS Monaco,162
+342229,Kylian Mbappé,2017-06-01,35000000.00,AS Monaco,162
+342229,Kylian Mbappé,2017-10-12,90000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2018-01-24,120000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2018-06-04,120000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2018-07-16,150000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2018-10-24,180000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2018-12-17,200000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2019-06-03,200000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2019-12-19,200000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2020-04-08,180000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2020-10-15,180000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2021-04-09,160000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2021-06-01,160000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2021-12-16,160000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2022-05-30,160000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2022-11-02,160000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2022-12-23,180000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2023-06-27,180000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2023-12-18,180000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2024-06-03,180000000.00,Paris Saint-Germain,583
+342229,Kylian Mbappé,2024-12-27,160000000.00,Real Madrid,418
+342229,Kylian Mbappé,2025-03-21,170000000.00,Real Madrid,418
+342229,Kylian Mbappé,2025-06-09,180000000.00,Real Madrid,418
+342229,Kylian Mbappé,2025-12-12,200000000.00,Real Madrid,418
+342229,Kylian Mbappé,2026-06-05,180000000.00,Real Madrid,418
+342229,Kylian Mbappé,2026-07-22,200000000.00,Real Madrid,418
+221316,Lucas Vázquez,2012-08-19,400000.00,Real Madrid Castilla,6767
+221316,Lucas Vázquez,2013-01-22,400000.00,Real Madrid Castilla,6767
+221316,Lucas Vázquez,2013-05-09,600000.00,Real Madrid Castilla,6767
+221316,Lucas Vázquez,2013-10-08,600000.00,Real Madrid Castilla,6767
+221316,Lucas Vázquez,2014-02-06,1000000.00,Real Madrid Castilla,6767
+221316,Lucas Vázquez,2014-07-12,0.00,Real Madrid Castilla,6767
+221316,Lucas Vázquez,2014-10-23,2000000.00,RCD Espanyol Barcelona,714
+221316,Lucas Vázquez,2015-01-23,3000000.00,RCD Espanyol Barcelona,714
+221316,Lucas Vázquez,2015-04-09,4000000.00,RCD Espanyol Barcelona,714
+221316,Lucas Vázquez,2015-07-01,5000000.00,RCD Espanyol Barcelona,714
+221316,Lucas Vázquez,2016-02-22,5000000.00,Real Madrid,418
+221316,Lucas Vázquez,2016-04-07,7500000.00,Real Madrid,418
+221316,Lucas Vázquez,2016-06-01,10000000.00,Real Madrid,418
+221316,Lucas Vázquez,2016-07-15,10000000.00,Real Madrid,418
+221316,Lucas Vázquez,2017-01-24,15000000.00,Real Madrid,418
+221316,Lucas Vázquez,2017-06-05,15000000.00,Real Madrid,418
+221316,Lucas Vázquez,2018-01-01,15000000.00,Real Madrid,418
+221316,Lucas Vázquez,2018-03-22,25000000.00,Real Madrid,418
+221316,Lucas Vázquez,2018-05-30,25000000.00,Real Madrid,418
+221316,Lucas Vázquez,2018-12-21,25000000.00,Real Madrid,418
+221316,Lucas Vázquez,2019-06-11,25000000.00,Real Madrid,418
+221316,Lucas Vázquez,2019-12-20,20000000.00,Real Madrid,418
+221316,Lucas Vázquez,2020-04-08,16000000.00,Real Madrid,418
+221316,Lucas Vázquez,2020-10-08,10000000.00,Real Madrid,418
+221316,Lucas Vázquez,2021-01-05,15000000.00,Real Madrid,418
+221316,Lucas Vázquez,2021-06-10,15000000.00,Real Madrid,418
+221316,Lucas Vázquez,2021-12-30,12000000.00,Real Madrid,418
+221316,Lucas Vázquez,2022-06-03,12000000.00,Real Madrid,418
+221316,Lucas Vázquez,2022-11-07,9000000.00,Real Madrid,418
+221316,Lucas Vázquez,2023-06-13,8000000.00,Real Madrid,418
+221316,Lucas Vázquez,2023-10-13,6000000.00,Real Madrid,418
+221316,Lucas Vázquez,2023-12-22,5000000.00,Real Madrid,418
+221316,Lucas Vázquez,2024-06-07,4000000.00,Real Madrid,418
+221316,Lucas Vázquez,2024-12-27,3500000.00,Real Madrid,418
+221316,Lucas Vázquez,2025-06-09,3000000.00,Real Madrid,418
+221316,Lucas Vázquez,2025-12-19,2500000.00,Bayer 04 Leverkusen,15
+221316,Lucas Vázquez,2026-05-27,1500000.00,Bayer 04 Leverkusen,15
+257462,Luka Jović,2014-11-11,750000.00,Red Star Belgrade,159
+257462,Luka Jović,2015-06-15,1500000.00,Red Star Belgrade,159
+257462,Luka Jović,2015-11-23,1750000.00,Red Star Belgrade,159
+257462,Luka Jović,2016-02-24,2000000.00,SL Benfica,294
+257462,Luka Jović,2016-09-30,3000000.00,SL Benfica,294
+257462,Luka Jović,2017-06-30,2000000.00,SL Benfica,294
+257462,Luka Jović,2017-12-28,2000000.00,Eintracht Frankfurt,24
+257462,Luka Jović,2018-04-04,5000000.00,Eintracht Frankfurt,24
+257462,Luka Jović,2018-06-05,8000000.00,Eintracht Frankfurt,24
+257462,Luka Jović,2018-08-22,12000000.00,Eintracht Frankfurt,24
+257462,Luka Jović,2018-10-22,20000000.00,Eintracht Frankfurt,24
+257462,Luka Jović,2018-12-18,40000000.00,Eintracht Frankfurt,24
+257462,Luka Jović,2019-03-06,55000000.00,Eintracht Frankfurt,24
+257462,Luka Jović,2019-06-05,60000000.00,Eintracht Frankfurt,24
+257462,Luka Jović,2019-12-20,40000000.00,Real Madrid,418
+257462,Luka Jović,2020-04-08,32000000.00,Real Madrid,418
+257462,Luka Jović,2020-10-08,25000000.00,Real Madrid,418
+257462,Luka Jović,2020-11-23,22000000.00,Real Madrid,418
+257462,Luka Jović,2021-01-05,20000000.00,Real Madrid,418
+257462,Luka Jović,2021-06-09,20000000.00,Eintracht Frankfurt,24
+257462,Luka Jović,2021-12-30,20000000.00,Real Madrid,418
+257462,Luka Jović,2022-03-21,18000000.00,Real Madrid,418
+257462,Luka Jović,2022-06-03,16000000.00,Real Madrid,418
+257462,Luka Jović,2022-11-11,14000000.00,ACF Fiorentina,430
+257462,Luka Jović,2023-03-21,10000000.00,ACF Fiorentina,430
+257462,Luka Jović,2023-06-15,8000000.00,ACF Fiorentina,430
+257462,Luka Jović,2023-12-20,5000000.00,AC Milan,5
+257462,Luka Jović,2024-03-12,7000000.00,AC Milan,5
+257462,Luka Jović,2024-06-05,7000000.00,AC Milan,5
+257462,Luka Jović,2024-10-18,5000000.00,AC Milan,5
+257462,Luka Jović,2024-12-18,4000000.00,AC Milan,5
+257462,Luka Jović,2025-03-25,2500000.00,AC Milan,5
+257462,Luka Jović,2025-06-17,4500000.00,AC Milan,5
+257462,Luka Jović,2025-12-12,6000000.00,AEK Athens,2441
+257462,Luka Jović,2026-03-06,7000000.00,AEK Athens,2441
+257462,Luka Jović,2026-06-04,9000000.00,AEK Athens,2441
+27992,Luka Modrić,2005-09-15,150000.00,GNK Dinamo Zagreb,419
+27992,Luka Modrić,2005-12-08,2500000.00,GNK Dinamo Zagreb,419
+27992,Luka Modrić,2006-10-06,4700000.00,GNK Dinamo Zagreb,419
+27992,Luka Modrić,2007-02-10,5700000.00,GNK Dinamo Zagreb,419
+27992,Luka Modrić,2007-08-20,7500000.00,GNK Dinamo Zagreb,419
+27992,Luka Modrić,2007-10-07,10500000.00,GNK Dinamo Zagreb,419
+27992,Luka Modrić,2008-01-07,12000000.00,GNK Dinamo Zagreb,419
+27992,Luka Modrić,2008-05-04,18000000.00,GNK Dinamo Zagreb,419
+27992,Luka Modrić,2009-02-23,17000000.00,Tottenham Hotspur,148
+27992,Luka Modrić,2009-06-26,18500000.00,Tottenham Hotspur,148
+27992,Luka Modrić,2010-01-24,19000000.00,Tottenham Hotspur,148
+27992,Luka Modrić,2010-08-13,22000000.00,Tottenham Hotspur,148
+27992,Luka Modrić,2011-02-01,28000000.00,Tottenham Hotspur,148
+27992,Luka Modrić,2011-08-08,33000000.00,Tottenham Hotspur,148
+27992,Luka Modrić,2012-02-06,39000000.00,Tottenham Hotspur,148
+27992,Luka Modrić,2012-08-27,40000000.00,Real Madrid,418
+27992,Luka Modrić,2013-01-10,35000000.00,Real Madrid,418
+27992,Luka Modrić,2013-06-12,35000000.00,Real Madrid,418
+27992,Luka Modrić,2014-01-23,40000000.00,Real Madrid,418
+27992,Luka Modrić,2014-07-20,55000000.00,Real Madrid,418
+27992,Luka Modrić,2015-01-23,55000000.00,Real Madrid,418
+27992,Luka Modrić,2015-07-01,50000000.00,Real Madrid,418
+27992,Luka Modrić,2016-02-22,50000000.00,Real Madrid,418
+27992,Luka Modrić,2016-06-01,50000000.00,Real Madrid,418
+27992,Luka Modrić,2016-07-15,50000000.00,Real Madrid,418
+27992,Luka Modrić,2017-01-24,45000000.00,Real Madrid,418
+27992,Luka Modrić,2017-06-05,40000000.00,Real Madrid,418
+27992,Luka Modrić,2018-01-01,40000000.00,Real Madrid,418
+27992,Luka Modrić,2018-05-30,25000000.00,Real Madrid,418
+27992,Luka Modrić,2018-12-21,25000000.00,Real Madrid,418
+27992,Luka Modrić,2019-06-11,20000000.00,Real Madrid,418
+27992,Luka Modrić,2019-12-20,15000000.00,Real Madrid,418
+27992,Luka Modrić,2020-04-08,12000000.00,Real Madrid,418
+27992,Luka Modrić,2020-10-08,10000000.00,Real Madrid,418
+27992,Luka Modrić,2021-01-05,10000000.00,Real Madrid,418
+27992,Luka Modrić,2021-05-28,10000000.00,Real Madrid,418
+27992,Luka Modrić,2021-12-30,10000000.00,Real Madrid,418
+27992,Luka Modrić,2022-06-03,10000000.00,Real Madrid,418
+27992,Luka Modrić,2022-11-07,10000000.00,Real Madrid,418
+27992,Luka Modrić,2023-06-13,10000000.00,Real Madrid,418
+27992,Luka Modrić,2023-12-22,10000000.00,Real Madrid,418
+27992,Luka Modrić,2024-03-21,8000000.00,Real Madrid,418
+27992,Luka Modrić,2024-06-07,6000000.00,Real Madrid,418
+27992,Luka Modrić,2024-12-27,5000000.00,Real Madrid,418
+27992,Luka Modrić,2025-06-09,4000000.00,Real Madrid,418
+27992,Luka Modrić,2025-12-23,4000000.00,AC Milan,5
+27992,Luka Modrić,2026-05-29,3500000.00,AC Milan,5
+284857,Marc Cucurella,2017-06-30,700000.00,,
+284857,Marc Cucurella,2018-01-01,2500000.00,FC Barcelona Atlètic,2464
+284857,Marc Cucurella,2018-05-30,5000000.00,FC Barcelona Atlètic,2464
+284857,Marc Cucurella,2018-12-21,7500000.00,SD Eibar,1533
+284857,Marc Cucurella,2019-02-28,10000000.00,SD Eibar,1533
+284857,Marc Cucurella,2019-06-11,10000000.00,SD Eibar,1533
+284857,Marc Cucurella,2019-12-20,15000000.00,Getafe CF,3709
+284857,Marc Cucurella,2020-03-05,20000000.00,Getafe CF,3709
+284857,Marc Cucurella,2020-04-08,18000000.00,Getafe CF,3709
+284857,Marc Cucurella,2020-10-08,20000000.00,Getafe CF,3709
+284857,Marc Cucurella,2021-01-05,20000000.00,Getafe CF,3709
+284857,Marc Cucurella,2021-06-10,20000000.00,Getafe CF,3709
+284857,Marc Cucurella,2021-12-23,20000000.00,Brighton & Hove Albion,1237
+284857,Marc Cucurella,2022-06-15,28000000.00,Brighton & Hove Albion,1237
+284857,Marc Cucurella,2022-09-15,55000000.00,Chelsea FC,631
+284857,Marc Cucurella,2022-11-03,55000000.00,Chelsea FC,631
+284857,Marc Cucurella,2023-03-16,40000000.00,Chelsea FC,631
+284857,Marc Cucurella,2023-06-20,35000000.00,Chelsea FC,631
+284857,Marc Cucurella,2023-10-09,28000000.00,Chelsea FC,631
+284857,Marc Cucurella,2023-12-19,25000000.00,Chelsea FC,631
+284857,Marc Cucurella,2024-05-27,25000000.00,Chelsea FC,631
+284857,Marc Cucurella,2024-07-18,30000000.00,Chelsea FC,631
+284857,Marc Cucurella,2024-12-16,30000000.00,Chelsea FC,631
+284857,Marc Cucurella,2025-05-30,35000000.00,Chelsea FC,631
+284857,Marc Cucurella,2025-10-17,45000000.00,Chelsea FC,631
+284857,Marc Cucurella,2025-12-09,50000000.00,Chelsea FC,631
+284857,Marc Cucurella,2026-06-03,50000000.00,Chelsea FC,631
+284857,Marc Cucurella,2026-07-22,60000000.00,Real Madrid,418
+44501,Marcelo,2006-10-22,500000.00,Fluminense Football Club,2462
+44501,Marcelo,2006-10-23,6500000.00,Fluminense Football Club,2462
+44501,Marcelo,2007-06-24,5500000.00,Real Madrid,418
+44501,Marcelo,2008-02-04,6000000.00,Real Madrid,418
+44501,Marcelo,2008-07-08,7000000.00,Real Madrid,418
+44501,Marcelo,2009-01-26,7000000.00,Real Madrid,418
+44501,Marcelo,2009-03-15,8000000.00,Real Madrid,418
+44501,Marcelo,2009-07-22,10000000.00,Real Madrid,418
+44501,Marcelo,2009-12-03,10000000.00,Real Madrid,418
+44501,Marcelo,2010-04-12,13000000.00,Real Madrid,418
+44501,Marcelo,2010-08-27,15000000.00,Real Madrid,418
+44501,Marcelo,2010-12-10,18000000.00,Real Madrid,418
+44501,Marcelo,2011-02-04,18000000.00,Real Madrid,418
+44501,Marcelo,2011-04-01,20000000.00,Real Madrid,418
+44501,Marcelo,2011-07-29,25000000.00,Real Madrid,418
+44501,Marcelo,2012-02-03,25000000.00,Real Madrid,418
+44501,Marcelo,2012-08-07,30000000.00,Real Madrid,418
+44501,Marcelo,2013-01-10,30000000.00,Real Madrid,418
+44501,Marcelo,2013-06-12,25000000.00,Real Madrid,418
+44501,Marcelo,2014-01-23,25000000.00,Real Madrid,418
+44501,Marcelo,2014-07-20,25000000.00,Real Madrid,418
+44501,Marcelo,2015-01-23,25000000.00,Real Madrid,418
+44501,Marcelo,2015-07-01,25000000.00,Real Madrid,418
+44501,Marcelo,2015-11-22,30000000.00,Real Madrid,418
+44501,Marcelo,2016-02-22,30000000.00,Real Madrid,418
+44501,Marcelo,2016-07-15,30000000.00,Real Madrid,418
+44501,Marcelo,2017-01-24,32000000.00,Real Madrid,418
+44501,Marcelo,2017-06-05,38000000.00,Real Madrid,418
+44501,Marcelo,2018-01-01,40000000.00,Real Madrid,418
+44501,Marcelo,2018-03-22,60000000.00,Real Madrid,418
+44501,Marcelo,2018-05-30,60000000.00,Real Madrid,418
+44501,Marcelo,2018-10-31,70000000.00,Real Madrid,418
+44501,Marcelo,2018-12-21,70000000.00,Real Madrid,418
+44501,Marcelo,2019-02-28,35000000.00,Real Madrid,418
+44501,Marcelo,2019-06-11,25000000.00,Real Madrid,418
+44501,Marcelo,2019-12-20,20000000.00,Real Madrid,418
+44501,Marcelo,2020-04-08,16000000.00,Real Madrid,418
+44501,Marcelo,2020-10-08,12000000.00,Real Madrid,418
+44501,Marcelo,2021-01-05,10000000.00,Real Madrid,418
+44501,Marcelo,2021-06-10,7500000.00,Real Madrid,418
+44501,Marcelo,2021-10-13,5000000.00,Real Madrid,418
+44501,Marcelo,2021-12-30,3000000.00,Real Madrid,418
+44501,Marcelo,2022-06-03,3000000.00,Real Madrid,418
+44501,Marcelo,2022-11-07,2500000.00,Olympiacos Piraeus,683
+44501,Marcelo,2023-02-27,2000000.00,Fluminense Football Club,2462
+44501,Marcelo,2023-04-07,2000000.00,Fluminense Football Club,2462
+44501,Marcelo,2023-07-25,1800000.00,Fluminense Football Club,2462
+44501,Marcelo,2023-12-11,1500000.00,Fluminense Football Club,2462
+44501,Marcelo,2024-03-28,1500000.00,Fluminense Football Club,2462
+44501,Marcelo,2024-06-17,1300000.00,Fluminense Football Club,2462
+44501,Marcelo,2024-12-09,1000000.00,Without Club,515
+44501,Marcelo,2025-02-06,0.00,,
+296622,Marco Asensio,2014-02-10,100000.00,RCD Mallorca B,8494
+296622,Marco Asensio,2014-05-18,1000000.00,RCD Mallorca B,8494
+296622,Marco Asensio,2014-08-12,1000000.00,RCD Mallorca,237
+296622,Marco Asensio,2015-01-08,3500000.00,RCD Mallorca,237
+296622,Marco Asensio,2015-07-01,3500000.00,Real Madrid,418
+296622,Marco Asensio,2015-11-23,5000000.00,RCD Espanyol Barcelona,714
+296622,Marco Asensio,2016-02-22,7000000.00,RCD Espanyol Barcelona,714
+296622,Marco Asensio,2016-04-07,8000000.00,RCD Espanyol Barcelona,714
+296622,Marco Asensio,2016-07-15,12000000.00,Real Madrid,418
+296622,Marco Asensio,2016-10-27,15000000.00,Real Madrid,418
+296622,Marco Asensio,2017-01-24,15000000.00,Real Madrid,418
+296622,Marco Asensio,2017-06-05,20000000.00,Real Madrid,418
+296622,Marco Asensio,2017-08-17,30000000.00,Real Madrid,418
+296622,Marco Asensio,2018-01-01,50000000.00,Real Madrid,418
+296622,Marco Asensio,2018-03-22,75000000.00,Real Madrid,418
+296622,Marco Asensio,2018-05-30,75000000.00,Real Madrid,418
+296622,Marco Asensio,2018-10-31,90000000.00,Real Madrid,418
+296622,Marco Asensio,2018-12-21,80000000.00,Real Madrid,418
+296622,Marco Asensio,2019-06-11,60000000.00,Real Madrid,418
+296622,Marco Asensio,2019-12-20,40000000.00,Real Madrid,418
+296622,Marco Asensio,2020-04-08,32000000.00,Real Madrid,418
+296622,Marco Asensio,2020-07-23,40000000.00,Real Madrid,418
+296622,Marco Asensio,2020-10-08,40000000.00,Real Madrid,418
+296622,Marco Asensio,2021-01-05,35000000.00,Real Madrid,418
+296622,Marco Asensio,2021-06-10,35000000.00,Real Madrid,418
+296622,Marco Asensio,2021-12-30,40000000.00,Real Madrid,418
+296622,Marco Asensio,2022-06-03,40000000.00,Real Madrid,418
+296622,Marco Asensio,2022-09-23,35000000.00,Real Madrid,418
+296622,Marco Asensio,2022-11-07,25000000.00,Real Madrid,418
+296622,Marco Asensio,2023-06-13,25000000.00,Real Madrid,418
+296622,Marco Asensio,2023-12-18,20000000.00,Paris Saint-Germain,583
+296622,Marco Asensio,2024-06-03,20000000.00,Paris Saint-Germain,583
+296622,Marco Asensio,2024-12-10,20000000.00,Paris Saint-Germain,583
+296622,Marco Asensio,2025-05-30,20000000.00,Aston Villa,405
+296622,Marco Asensio,2025-10-01,17000000.00,Fenerbahce,36
+296622,Marco Asensio,2025-12-17,15000000.00,Fenerbahce,36
+296622,Marco Asensio,2026-05-21,15000000.00,Fenerbahce,36
+225020,Mariano Díaz,2016-07-15,2000000.00,Real Madrid,418
+225020,Mariano Díaz,2017-01-24,5000000.00,Real Madrid,418
+225020,Mariano Díaz,2017-06-05,5000000.00,Real Madrid,418
+225020,Mariano Díaz,2017-10-12,8000000.00,Olympique Lyon,1041
+225020,Mariano Díaz,2018-01-24,22000000.00,Olympique Lyon,1041
+225020,Mariano Díaz,2018-06-04,22000000.00,Olympique Lyon,1041
+225020,Mariano Díaz,2018-12-21,20000000.00,Real Madrid,418
+225020,Mariano Díaz,2019-06-11,20000000.00,Real Madrid,418
+225020,Mariano Díaz,2019-12-20,16000000.00,Real Madrid,418
+225020,Mariano Díaz,2020-04-08,13000000.00,Real Madrid,418
+225020,Mariano Díaz,2020-10-08,12000000.00,Real Madrid,418
+225020,Mariano Díaz,2021-01-05,10000000.00,Real Madrid,418
+225020,Mariano Díaz,2021-06-10,10000000.00,Real Madrid,418
+225020,Mariano Díaz,2021-12-30,7000000.00,Real Madrid,418
+225020,Mariano Díaz,2022-03-21,6000000.00,Real Madrid,418
+225020,Mariano Díaz,2022-06-03,6000000.00,Real Madrid,418
+225020,Mariano Díaz,2022-09-23,4000000.00,Real Madrid,418
+225020,Mariano Díaz,2022-11-07,3000000.00,Real Madrid,418
+225020,Mariano Díaz,2023-03-23,2500000.00,Real Madrid,418
+225020,Mariano Díaz,2023-06-13,2500000.00,Real Madrid,418
+225020,Mariano Díaz,2023-10-13,2000000.00,Sevilla FC,368
+225020,Mariano Díaz,2023-12-22,2000000.00,Sevilla FC,368
+225020,Mariano Díaz,2024-06-07,1500000.00,Sevilla FC,368
+225020,Mariano Díaz,2024-10-16,1200000.00,Without Club,515
+225020,Mariano Díaz,2025-04-04,800000.00,Without Club,515
+225020,Mariano Díaz,2025-12-12,800000.00,Deportivo Alavés,1108
+225020,Mariano Díaz,2026-03-16,400000.00,Deportivo Alavés,1108
+225020,Mariano Díaz,2026-06-05,300000.00,Deportivo Alavés,1108
+948273,Mario Martín,2021-12-30,50000.00,Real Madrid Castilla,6767
+948273,Mario Martín,2022-06-29,100000.00,Real Madrid Castilla,6767
+948273,Mario Martín,2022-12-29,150000.00,Real Madrid Castilla,6767
+948273,Mario Martín,2023-06-30,250000.00,Real Madrid Castilla,6767
+948273,Mario Martín,2023-12-20,250000.00,Real Madrid Castilla,6767
+948273,Mario Martín,2024-06-24,300000.00,Real Madrid Castilla,6767
+948273,Mario Martín,2024-10-11,500000.00,Real Valladolid CF,366
+948273,Mario Martín,2024-12-27,800000.00,Real Valladolid CF,366
+948273,Mario Martín,2025-03-21,1500000.00,Real Valladolid CF,366
+948273,Mario Martín,2025-06-09,1500000.00,Real Madrid,418
+948273,Mario Martín,2025-10-02,3000000.00,Getafe CF,3709
+948273,Mario Martín,2025-12-12,5000000.00,Getafe CF,3709
+948273,Mario Martín,2026-03-16,10000000.00,Getafe CF,3709
+948273,Mario Martín,2026-06-05,10000000.00,Getafe CF,3709
+58884,Nacho Fernández,2012-08-19,1500000.00,Real Madrid Castilla,6767
+58884,Nacho Fernández,2013-01-10,2500000.00,Real Madrid,418
+58884,Nacho Fernández,2013-05-09,3500000.00,Real Madrid,418
+58884,Nacho Fernández,2013-06-12,3500000.00,Real Madrid,418
+58884,Nacho Fernández,2013-09-17,5000000.00,Real Madrid,418
+58884,Nacho Fernández,2014-01-23,5000000.00,Real Madrid,418
+58884,Nacho Fernández,2014-07-20,6000000.00,Real Madrid,418
+58884,Nacho Fernández,2015-01-23,6000000.00,Real Madrid,418
+58884,Nacho Fernández,2015-07-01,5000000.00,Real Madrid,418
+58884,Nacho Fernández,2016-02-22,5000000.00,Real Madrid,418
+58884,Nacho Fernández,2016-07-15,5000000.00,Real Madrid,418
+58884,Nacho Fernández,2017-01-24,10000000.00,Real Madrid,418
+58884,Nacho Fernández,2017-06-05,15000000.00,Real Madrid,418
+58884,Nacho Fernández,2018-01-01,20000000.00,Real Madrid,418
+58884,Nacho Fernández,2018-05-30,30000000.00,Real Madrid,418
+58884,Nacho Fernández,2018-07-15,35000000.00,Real Madrid,418
+58884,Nacho Fernández,2018-12-21,30000000.00,Real Madrid,418
+58884,Nacho Fernández,2019-06-11,25000000.00,Real Madrid,418
+58884,Nacho Fernández,2019-09-10,20000000.00,Real Madrid,418
+58884,Nacho Fernández,2019-12-20,15000000.00,Real Madrid,418
+58884,Nacho Fernández,2020-04-08,12000000.00,Real Madrid,418
+58884,Nacho Fernández,2020-10-08,10000000.00,Real Madrid,418
+58884,Nacho Fernández,2021-01-05,10000000.00,Real Madrid,418
+58884,Nacho Fernández,2021-06-10,10000000.00,Real Madrid,418
+58884,Nacho Fernández,2021-10-13,8000000.00,Real Madrid,418
+58884,Nacho Fernández,2021-12-30,7000000.00,Real Madrid,418
+58884,Nacho Fernández,2022-06-03,7000000.00,Real Madrid,418
+58884,Nacho Fernández,2022-11-07,5000000.00,Real Madrid,418
+58884,Nacho Fernández,2023-03-23,6000000.00,Real Madrid,418
+58884,Nacho Fernández,2023-06-13,6000000.00,Real Madrid,418
+58884,Nacho Fernández,2023-10-13,5000000.00,Real Madrid,418
+58884,Nacho Fernández,2024-03-21,4000000.00,Real Madrid,418
+58884,Nacho Fernández,2024-06-07,3000000.00,Real Madrid,418
+58884,Nacho Fernández,2024-12-13,2500000.00,Al-Qadsiah FC,26069
+58884,Nacho Fernández,2025-05-27,2000000.00,Al-Qadsiah FC,26069
+58884,Nacho Fernández,2025-12-18,1800000.00,Al-Qadsiah FC,26069
+58884,Nacho Fernández,2026-06-04,1500000.00,Al-Qadsiah FC,26069
+935245,Raúl Asencio,2023-08-21,100000.00,Real Madrid Castilla,6767
+935245,Raúl Asencio,2023-12-20,200000.00,Real Madrid Castilla,6767
+935245,Raúl Asencio,2024-06-24,300000.00,Real Madrid Castilla,6767
+935245,Raúl Asencio,2024-12-27,7500000.00,Real Madrid,418
+935245,Raúl Asencio,2025-03-21,30000000.00,Real Madrid,418
+935245,Raúl Asencio,2025-06-09,40000000.00,Real Madrid,418
+935245,Raúl Asencio,2025-10-02,30000000.00,Real Madrid,418
+935245,Raúl Asencio,2025-12-12,30000000.00,Real Madrid,418
+935245,Raúl Asencio,2026-03-16,25000000.00,Real Madrid,418
+935245,Raúl Asencio,2026-06-05,20000000.00,Real Madrid,418
+412363,Rodrygo,2017-12-07,100000.00,Santos FC,221
+412363,Rodrygo,2018-05-23,10000000.00,Santos FC,221
+412363,Rodrygo,2019-02-18,40000000.00,Santos FC,221
+412363,Rodrygo,2019-08-01,40000000.00,Real Madrid,418
+412363,Rodrygo,2019-12-20,50000000.00,Real Madrid,418
+412363,Rodrygo,2020-04-08,45000000.00,Real Madrid,418
+412363,Rodrygo,2020-10-08,45000000.00,Real Madrid,418
+412363,Rodrygo,2021-01-05,45000000.00,Real Madrid,418
+412363,Rodrygo,2021-06-10,35000000.00,Real Madrid,418
+412363,Rodrygo,2021-12-30,40000000.00,Real Madrid,418
+412363,Rodrygo,2022-06-03,60000000.00,Real Madrid,418
+412363,Rodrygo,2022-09-23,70000000.00,Real Madrid,418
+412363,Rodrygo,2022-11-07,80000000.00,Real Madrid,418
+412363,Rodrygo,2023-06-13,100000000.00,Real Madrid,418
+412363,Rodrygo,2023-12-22,100000000.00,Real Madrid,418
+412363,Rodrygo,2024-06-07,110000000.00,Real Madrid,418
+412363,Rodrygo,2024-12-27,100000000.00,Real Madrid,418
+412363,Rodrygo,2025-06-09,90000000.00,Real Madrid,418
+412363,Rodrygo,2025-10-02,80000000.00,Real Madrid,418
+412363,Rodrygo,2025-12-12,60000000.00,Real Madrid,418
+412363,Rodrygo,2026-03-16,50000000.00,Real Madrid,418
+412363,Rodrygo,2026-06-05,45000000.00,Real Madrid,418
+1375227,Thiago Pitarch,2025-09-25,3000000.00,Real Madrid Castilla,6767
+1375227,Thiago Pitarch,2025-12-30,3000000.00,Real Madrid Castilla,6767
+1375227,Thiago Pitarch,2026-03-16,20000000.00,Real Madrid,418
+1375227,Thiago Pitarch,2026-06-05,20000000.00,Real Madrid,418
+108390,Thibaut Courtois,2009-05-27,50000.00,,
+108390,Thibaut Courtois,2010-07-28,150000.00,KRC Genk,1184
+108390,Thibaut Courtois,2010-10-06,1000000.00,KRC Genk,1184
+108390,Thibaut Courtois,2010-12-28,2000000.00,KRC Genk,1184
+108390,Thibaut Courtois,2011-05-24,3000000.00,KRC Genk,1184
+108390,Thibaut Courtois,2011-06-28,4000000.00,KRC Genk,1184
+108390,Thibaut Courtois,2011-07-29,6000000.00,Atlético de Madrid,13
+108390,Thibaut Courtois,2012-02-03,9000000.00,Atlético de Madrid,13
+108390,Thibaut Courtois,2012-08-01,15000000.00,Atlético de Madrid,13
+108390,Thibaut Courtois,2013-01-10,15000000.00,Atlético de Madrid,13
+108390,Thibaut Courtois,2013-06-12,18000000.00,Atlético de Madrid,13
+108390,Thibaut Courtois,2013-09-17,25000000.00,Atlético de Madrid,13
+108390,Thibaut Courtois,2014-01-23,25000000.00,Atlético de Madrid,13
+108390,Thibaut Courtois,2014-08-12,25000000.00,Chelsea FC,631
+108390,Thibaut Courtois,2015-02-12,30000000.00,Chelsea FC,631
+108390,Thibaut Courtois,2015-07-01,35000000.00,Chelsea FC,631
+108390,Thibaut Courtois,2016-02-09,35000000.00,Chelsea FC,631
+108390,Thibaut Courtois,2016-06-01,35000000.00,Chelsea FC,631
+108390,Thibaut Courtois,2016-08-01,35000000.00,Chelsea FC,631
+108390,Thibaut Courtois,2017-02-20,40000000.00,Chelsea FC,631
+108390,Thibaut Courtois,2017-06-28,40000000.00,Chelsea FC,631
+108390,Thibaut Courtois,2018-01-02,50000000.00,Chelsea FC,631
+108390,Thibaut Courtois,2018-03-23,60000000.00,Chelsea FC,631
+108390,Thibaut Courtois,2018-05-28,60000000.00,Chelsea FC,631
+108390,Thibaut Courtois,2018-07-16,65000000.00,Chelsea FC,631
+108390,Thibaut Courtois,2018-12-21,65000000.00,Real Madrid,418
+108390,Thibaut Courtois,2019-06-11,55000000.00,Real Madrid,418
+108390,Thibaut Courtois,2019-12-20,55000000.00,Real Madrid,418
+108390,Thibaut Courtois,2020-03-05,60000000.00,Real Madrid,418
+108390,Thibaut Courtois,2020-04-08,48000000.00,Real Madrid,418
+108390,Thibaut Courtois,2020-07-23,60000000.00,Real Madrid,418
+108390,Thibaut Courtois,2020-10-08,75000000.00,Real Madrid,418
+108390,Thibaut Courtois,2021-01-05,75000000.00,Real Madrid,418
+108390,Thibaut Courtois,2021-05-26,60000000.00,Real Madrid,418
+108390,Thibaut Courtois,2021-12-30,65000000.00,Real Madrid,418
+108390,Thibaut Courtois,2022-06-03,60000000.00,Real Madrid,418
+108390,Thibaut Courtois,2022-11-07,60000000.00,Real Madrid,418
+108390,Thibaut Courtois,2023-06-13,45000000.00,Real Madrid,418
+108390,Thibaut Courtois,2023-12-22,35000000.00,Real Madrid,418
+108390,Thibaut Courtois,2024-03-21,30000000.00,Real Madrid,418
+108390,Thibaut Courtois,2024-06-07,28000000.00,Real Madrid,418
+108390,Thibaut Courtois,2024-10-11,25000000.00,Real Madrid,418
+108390,Thibaut Courtois,2024-12-27,25000000.00,Real Madrid,418
+108390,Thibaut Courtois,2025-06-09,20000000.00,Real Madrid,418
+108390,Thibaut Courtois,2025-12-12,18000000.00,Real Madrid,418
+108390,Thibaut Courtois,2026-06-05,15000000.00,Real Madrid,418
+31909,Toni Kroos,2007-06-21,100000.00,FC Bayern Munich U19,1462
+31909,Toni Kroos,2007-10-01,1000000.00,Bayern Munich,27
+31909,Toni Kroos,2008-01-01,3000000.00,Bayern Munich,27
+31909,Toni Kroos,2008-08-27,5000000.00,Bayern Munich,27
+31909,Toni Kroos,2010-01-17,8000000.00,Bayer 04 Leverkusen,15
+31909,Toni Kroos,2010-03-07,10000000.00,Bayer 04 Leverkusen,15
+31909,Toni Kroos,2010-05-08,12000000.00,Bayer 04 Leverkusen,15
+31909,Toni Kroos,2011-01-12,12000000.00,Bayern Munich,27
+31909,Toni Kroos,2011-06-29,12000000.00,Bayern Munich,27
+31909,Toni Kroos,2011-10-18,16000000.00,Bayern Munich,27
+31909,Toni Kroos,2012-01-23,23000000.00,Bayern Munich,27
+31909,Toni Kroos,2012-06-29,23000000.00,Bayern Munich,27
+31909,Toni Kroos,2013-01-13,32000000.00,Bayern Munich,27
+31909,Toni Kroos,2013-06-30,32000000.00,Bayern Munich,27
+31909,Toni Kroos,2014-02-12,40000000.00,Bayern Munich,27
+31909,Toni Kroos,2014-07-10,42000000.00,Bayern Munich,27
+31909,Toni Kroos,2014-07-20,45000000.00,Real Madrid,418
+31909,Toni Kroos,2015-01-23,50000000.00,Real Madrid,418
+31909,Toni Kroos,2015-07-01,50000000.00,Real Madrid,418
+31909,Toni Kroos,2016-02-22,50000000.00,Real Madrid,418
+31909,Toni Kroos,2016-06-01,50000000.00,Real Madrid,418
+31909,Toni Kroos,2016-07-15,55000000.00,Real Madrid,418
+31909,Toni Kroos,2016-10-27,60000000.00,Real Madrid,418
+31909,Toni Kroos,2017-01-24,60000000.00,Real Madrid,418
+31909,Toni Kroos,2017-06-05,70000000.00,Real Madrid,418
+31909,Toni Kroos,2018-01-01,80000000.00,Real Madrid,418
+31909,Toni Kroos,2018-05-30,80000000.00,Real Madrid,418
+31909,Toni Kroos,2018-12-21,80000000.00,Real Madrid,418
+31909,Toni Kroos,2019-06-11,60000000.00,Real Madrid,418
+31909,Toni Kroos,2019-12-20,60000000.00,Real Madrid,418
+31909,Toni Kroos,2020-04-08,48000000.00,Real Madrid,418
+31909,Toni Kroos,2020-10-08,50000000.00,Real Madrid,418
+31909,Toni Kroos,2021-01-05,50000000.00,Real Madrid,418
+31909,Toni Kroos,2021-06-01,40000000.00,Real Madrid,418
+31909,Toni Kroos,2021-10-13,30000000.00,Real Madrid,418
+31909,Toni Kroos,2021-12-30,25000000.00,Real Madrid,418
+31909,Toni Kroos,2022-06-03,20000000.00,Real Madrid,418
+31909,Toni Kroos,2022-11-07,20000000.00,Real Madrid,418
+31909,Toni Kroos,2023-03-23,18000000.00,Real Madrid,418
+31909,Toni Kroos,2023-06-13,15000000.00,Real Madrid,418
+31909,Toni Kroos,2023-12-22,14000000.00,Real Madrid,418
+31909,Toni Kroos,2024-03-21,12000000.00,Real Madrid,418
+31909,Toni Kroos,2024-06-07,10000000.00,Real Madrid,418
+31909,Toni Kroos,2024-07-07,0.00,,
+314353,Trent Alexander-Arnold,2017-02-20,500000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2017-06-28,1500000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2017-10-23,5000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2018-01-02,8000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2018-05-28,25000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2018-10-17,35000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2018-12-19,45000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2019-03-05,50000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2019-06-13,80000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2019-12-10,110000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2020-04-08,99000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2020-07-30,110000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2020-10-13,110000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2021-03-18,100000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2021-05-28,75000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2021-12-23,80000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2022-06-15,80000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2022-11-03,70000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2023-03-16,65000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2023-06-20,65000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2023-12-19,70000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2024-05-27,70000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2024-12-16,75000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2025-05-30,75000000.00,Liverpool FC,31
+314353,Trent Alexander-Arnold,2025-12-12,70000000.00,Real Madrid,418
+314353,Trent Alexander-Arnold,2026-03-16,65000000.00,Real Madrid,418
+314353,Trent Alexander-Arnold,2026-06-05,60000000.00,Real Madrid,418
+371998,Vinicius Junior,2017-10-30,10000000.00,CR Flamengo,614
+371998,Vinicius Junior,2017-12-07,20000000.00,CR Flamengo,614
+371998,Vinicius Junior,2018-05-23,35000000.00,CR Flamengo,614
+371998,Vinicius Junior,2018-12-21,35000000.00,Real Madrid,418
+371998,Vinicius Junior,2019-02-28,70000000.00,Real Madrid,418
+371998,Vinicius Junior,2019-06-11,70000000.00,Real Madrid,418
+371998,Vinicius Junior,2019-12-20,50000000.00,Real Madrid,418
+371998,Vinicius Junior,2020-04-08,45000000.00,Real Madrid,418
+371998,Vinicius Junior,2020-10-08,50000000.00,Real Madrid,418
+371998,Vinicius Junior,2021-01-05,40000000.00,Real Madrid,418
+371998,Vinicius Junior,2021-06-10,40000000.00,Real Madrid,418
+371998,Vinicius Junior,2021-10-13,50000000.00,Real Madrid,418
+371998,Vinicius Junior,2021-12-30,100000000.00,Real Madrid,418
+371998,Vinicius Junior,2022-06-03,100000000.00,Real Madrid,418
+371998,Vinicius Junior,2022-09-23,120000000.00,Real Madrid,418
+371998,Vinicius Junior,2022-11-07,120000000.00,Real Madrid,418
+371998,Vinicius Junior,2023-06-13,150000000.00,Real Madrid,418
+371998,Vinicius Junior,2023-12-22,150000000.00,Real Madrid,418
+371998,Vinicius Junior,2024-06-07,180000000.00,Real Madrid,418
+371998,Vinicius Junior,2024-10-11,200000000.00,Real Madrid,418
+371998,Vinicius Junior,2024-12-27,200000000.00,Real Madrid,418
+371998,Vinicius Junior,2025-06-09,170000000.00,Real Madrid,418
+371998,Vinicius Junior,2025-10-02,150000000.00,Real Madrid,418
+371998,Vinicius Junior,2025-12-12,150000000.00,Real Madrid,418
+371998,Vinicius Junior,2026-06-05,140000000.00,Real Madrid,418

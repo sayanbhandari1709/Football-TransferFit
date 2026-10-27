@@ -1,0 +1,106 @@
+direction,transfer_date,player_id,player_name,price,market_value_at_transfer,is_loan,counterpart_club_id,counterpart_club_name
+out,2021-08-10,495625,Víctor Chust,,400000.00,True,2687,Cádiz CF
+out,2021-08-11,405398,Takefusa Kubo,,15000000.00,True,237,RCD Mallorca
+out,2021-08-14,164770,Raphaël Varane,40000000.00,70000000.00,False,985,Manchester United
+out,2021-08-20,316264,Martin Ødegaard,35000000.00,40000000.00,False,11,Arsenal FC
+out,2021-08-28,280730,Álvaro Odriozola,,10000000.00,True,430,ACF Fiorentina
+in,2021-08-31,640428,Eduardo Camavinga,31000000.00,55000000.00,False,273,Stade Rennais FC
+in,2022-06-30,298976,Borja Mayoral,,9000000.00,True,12,AS Roma
+in,2022-06-30,405398,Takefusa Kubo,,7500000.00,True,237,RCD Mallorca
+in,2022-06-30,627226,Reinier,,8000000.00,True,16,Borussia Dortmund
+in,2022-06-30,280730,Álvaro Odriozola,,12000000.00,True,430,ACF Fiorentina
+in,2022-06-30,495625,Víctor Chust,,2500000.00,True,2687,Cádiz CF
+in,2022-07-01,413112,Aurélien Tchouaméni,80000000.00,60000000.00,False,162,AS Monaco
+in,2022-07-01,86202,Antonio Rüdiger,0.00,40000000.00,False,631,Chelsea FC
+in,2022-07-01,495621,Antonio Blanco,,5000000.00,False,6767,Real Madrid Castilla
+in,2022-07-01,525299,Miguel Gutiérrez,,6000000.00,False,6767,Real Madrid Castilla
+in,2022-07-01,623521,Juanmi Latasa,,1000000.00,False,6767,Real Madrid Castilla
+out,2022-07-06,495625,Víctor Chust,1000000.00,2500000.00,False,2687,Cádiz CF
+out,2022-07-07,39381,Gareth Bale,0.00,3000000.00,False,51828,Los Angeles FC
+out,2022-07-08,257462,Luka Jović,0.00,16000000.00,False,430,ACF Fiorentina
+out,2022-07-19,405398,Takefusa Kubo,6500000.00,7500000.00,False,681,Real Sociedad
+out,2022-08-01,298976,Borja Mayoral,10000000.00,9000000.00,False,3709,Getafe CF
+out,2022-08-05,525299,Miguel Gutiérrez,11000000.00,6000000.00,False,12321,Girona FC
+out,2022-08-07,85288,Isco,0.00,7500000.00,False,368,Sevilla FC
+out,2022-08-18,495621,Antonio Blanco,,5000000.00,True,2687,Cádiz CF
+out,2022-08-19,627226,Reinier,,8000000.00,True,12321,Girona FC
+out,2022-08-22,16306,Casemiro,70650000.00,40000000.00,False,985,Manchester United
+out,2022-08-26,623521,Juanmi Latasa,,1000000.00,True,3709,Getafe CF
+out,2022-09-01,44501,Marcelo,0.00,3000000.00,False,683,Olympiacos Piraeus
+in,2023-01-11,495621,Antonio Blanco,,3500000.00,True,2687,Cádiz CF
+out,2023-01-12,495621,Antonio Blanco,,3500000.00,True,1108,Deportivo Alavés
+in,2023-06-30,627226,Reinier,,2000000.00,True,12321,Girona FC
+in,2023-06-30,495621,Antonio Blanco,,2500000.00,True,1108,Deportivo Alavés
+in,2023-06-30,314678,Brahim Díaz,,20000000.00,True,5,AC Milan
+in,2023-07-01,341264,Fran García,5000000.00,12000000.00,False,367,Rayo Vallecano
+out,2023-07-01,18922,Karim Benzema,0.00,25000000.00,False,8023,Al-Ittihad Club
+in,2023-07-01,81999,Joselu,500000.00,6000000.00,True,714,RCD Espanyol Barcelona
+out,2023-07-01,50202,Eden Hazard,,5000000.00,False,515,Without Club
+in,2023-07-01,537762,Sergio Arribas,,5000000.00,False,6767,Real Madrid Castilla
+in,2023-07-01,581678,Jude Bellingham,127000000.00,120000000.00,False,16,Borussia Dortmund
+in,2023-07-01,662261,Rafa Marín,,500000.00,False,6767,Real Madrid Castilla
+out,2023-07-06,296622,Marco Asensio,0.00,25000000.00,False,583,Paris Saint-Germain
+in,2023-07-06,861410,Arda Güler,28000000.00,15000000.00,False,36,Fenerbahce
+out,2023-07-15,251896,Jesús Vallejo,,2000000.00,True,16795,Granada CF
+out,2023-07-25,495621,Antonio Blanco,4000000.00,5000000.00,False,1108,Deportivo Alavés
+out,2023-07-28,662261,Rafa Marín,,500000.00,True,1108,Deportivo Alavés
+out,2023-08-09,537762,Sergio Arribas,6000000.00,5000000.00,False,3302,UD Almería
+in,2023-08-14,192279,Kepa Arrizabalaga,1000000.00,18000000.00,True,631,Chelsea FC
+out,2023-09-01,280730,Álvaro Odriozola,3000000.00,5000000.00,False,681,Real Sociedad
+out,2023-09-01,225020,Mariano Díaz,0.00,2500000.00,False,368,Sevilla FC
+out,2023-09-01,627226,Reinier,,2000000.00,True,8970,Frosinone Calcio
+in,2024-06-30,662261,Rafa Marín,,7500000.00,True,1108,Deportivo Alavés
+in,2024-06-30,251896,Jesús Vallejo,,1000000.00,True,16795,Granada CF
+in,2024-06-30,627226,Reinier,,3500000.00,True,8970,Frosinone Calcio
+out,2024-06-30,192279,Kepa Arrizabalaga,,12000000.00,True,631,Chelsea FC
+out,2024-06-30,81999,Joselu,,5000000.00,True,714,RCD Espanyol Barcelona
+in,2024-06-30,623521,Juanmi Latasa,,2800000.00,True,3709,Getafe CF
+in,2024-07-01,948273,Mario Martín,,300000.00,False,6767,Real Madrid Castilla
+in,2024-07-01,81999,Joselu,1500000.00,5000000.00,False,714,RCD Espanyol Barcelona
+in,2024-07-01,342229,Kylian Mbappé,0.00,180000000.00,False,583,Paris Saint-Germain
+in,2024-07-01,935245,Raúl Asencio,,300000.00,False,6767,Real Madrid Castilla
+in,2024-07-01,948275,Álvaro Rodríguez,,3500000.00,False,6767,Real Madrid Castilla
+in,2024-07-01,948294,Nico Paz,,10000000.00,False,6767,Real Madrid Castilla
+out,2024-07-02,81999,Joselu,1500000.00,5000000.00,False,6297,Al-Gharafa SC
+out,2024-07-06,31909,Toni Kroos,,10000000.00,False,,
+out,2024-07-10,662261,Rafa Marín,12000000.00,7500000.00,False,6195,SSC Napoli
+out,2024-07-18,58884,Nacho Fernández,0.00,3000000.00,False,26069,Al-Qadsiah FC
+in,2024-07-21,971570,Endrick,47500000.00,60000000.00,False,1023,Sociedade Esportiva Palmeiras
+out,2024-08-14,623521,Juanmi Latasa,2500000.00,2800000.00,False,366,Real Valladolid CF
+out,2024-08-23,948273,Mario Martín,,300000.00,True,366,Real Valladolid CF
+out,2024-08-25,948294,Nico Paz,66000000.00,10000000.00,False,1047,Como 1907
+out,2024-08-29,948275,Álvaro Rodríguez,,3500000.00,True,3709,Getafe CF
+out,2024-08-30,627226,Reinier,,3500000.00,True,16795,Granada CF
+in,2025-05-31,948273,Mario Martín,,1500000.00,True,366,Real Valladolid CF
+in,2025-06-01,314353,Trent Alexander-Arnold,10000000.00,75000000.00,False,31,Liverpool FC
+in,2025-06-01,890290,Dean Huijsen,62500000.00,60000000.00,False,989,AFC Bournemouth
+in,2025-06-01,935230,Gonzalo García,,5000000.00,False,6767,Real Madrid Castilla
+in,2025-06-30,627226,Reinier,,1500000.00,True,16795,Granada CF
+in,2025-06-30,948275,Álvaro Rodríguez,,2500000.00,True,3709,Getafe CF
+in,2025-07-01,935231,Víctor Muñoz,,1000000.00,False,6767,Real Madrid Castilla
+out,2025-07-11,935231,Víctor Muñoz,25000000.00,1000000.00,False,331,CA Osasuna
+out,2025-07-14,27992,Luka Modrić,0.00,4000000.00,False,5,AC Milan
+out,2025-07-14,251896,Jesús Vallejo,0.00,1000000.00,False,1532,Albacete Balompié
+in,2025-07-14,811778,Álvaro Carreras,50000000.00,35000000.00,False,294,SL Benfica
+out,2025-07-22,948275,Álvaro Rodríguez,14500000.00,2500000.00,False,1531,Elche CF
+out,2025-07-29,948273,Mario Martín,,1500000.00,True,3709,Getafe CF
+out,2025-08-08,627226,Reinier,0.00,1500000.00,False,330,Clube Atlético Mineiro
+in,2025-08-14,1057316,Franco Mastantuono,45000000.00,30000000.00,False,209,CA River Plate
+out,2025-08-26,221316,Lucas Vázquez,0.00,3000000.00,False,15,Bayer 04 Leverkusen
+out,2026-01-01,971570,Endrick,,25000000.00,True,1041,Olympique Lyon
+in,2026-03-01,1375227,Thiago Pitarch,,3000000.00,False,6767,Real Madrid Castilla
+in,2026-06-30,971570,Endrick,,40000000.00,True,1041,Olympique Lyon
+in,2026-06-30,948273,Mario Martín,,10000000.00,True,3709,Getafe CF
+in,2026-07-01,284857,Marc Cucurella,55000000.00,50000000.00,False,631,Chelsea FC
+in,2026-07-01,935281,David Jiménez,,5000000.00,False,6767,Real Madrid Castilla
+in,2026-07-01,357119,Ibrahima Konaté,0.00,45000000.00,False,31,Liverpool FC
+in,2026-07-01,1055220,Fran González,,3000000.00,False,6767,Real Madrid Castilla
+in,2026-07-01,241641,Bernardo Silva,0.00,22000000.00,False,281,Manchester City
+out,2026-07-01,319745,Dani Ceballos,,7000000.00,False,515,Without Club
+out,2026-07-01,59016,David Alaba,,3500000.00,False,515,Without Club
+in,2026-07-01,646824,Manuel Ángel,,5000000.00,False,6767,Real Madrid Castilla
+in,2026-07-01,948272,César Palacios,,7500000.00,False,6767,Real Madrid Castilla
+out,2026-07-01,948273,Mario Martín,3500000.00,10000000.00,False,3709,Getafe CF
+out,2026-07-01,138927,Daniel Carvajal,,6000000.00,False,515,Without Club
+in,2026-07-05,321528,Denzel Dumfries,20000000.00,25000000.00,False,46,Inter Milan
+out,2026-07-08,341264,Fran García,4000000.00,10000000.00,False,150,Real Betis Balompié

@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-08-15T11:04:08.124817+02:00",
+  "source": "127.0.0.1:55450/unified (schema sports)",
+  "competition": {
+    "competition_id": 795,
+    "name": "La Liga",
+    "area": "Spain"
+  },
+  "seasons": [
+    {
+      "season_id": 188124,
+      "super_season_id": 2023,
+      "season_name": "2022/2023",
+      "start_year": 2022,
+      "end_year": 2023
+    },
+    {
+      "season_id": 189012,
+      "super_season_id": 2024,
+      "season_name": "2023/2024",
+      "start_year": 2023,
+      "end_year": 2024
+    },
+    {
+      "season_id": 189974,
+      "super_season_id": 2025,
+      "season_name": "2024/2025",
+      "start_year": 2024,
+      "end_year": 2025
+    }
+  ],
+  "valuation_window": [
+    "2022-07-01",
+    "2025-06-30"
+  ],
+  "empty_tables_skipped": [
+    "team_season_stats",
+    "team_season_stats_total",
+    "team_season_stats_average",
+    "team_season_stats_percent"
+  ]
+}

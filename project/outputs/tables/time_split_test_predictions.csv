@@ -1,0 +1,71 @@
+player_name,source_team_name,target_team_name,pre_minutes,label,pred_prob
+S. Dimitrievski,Rayo Vallecano,Valencia,3690.0,0,0.29493529747895775
+Saúl Ñíguez,Atlético Madrid,Sevilla,1553.0,1,0.96593444998011
+Sergi Guardiola,Cádiz,Rayo Vallecano,629.0,0,0.3023560470706251
+Jaime Mata,Getafe,Las Palmas,2014.0,0,0.4454995095340899
+Oriol Romeu,Barcelona,Girona,1077.0,1,0.7600808479029058
+Marcos Alonso,Barcelona,Celta de Vigo,279.0,1,0.9835401901920389
+M. Nastasić,Mallorca,Leganés,2506.0,1,0.8090009406800432
+A. Sørloth,Villarreal,Atlético Madrid,2780.0,1,0.9964569014875096
+J. Mojica,Osasuna,Mallorca,2239.0,1,0.9544246027044713
+D. Machís,Cádiz,Real Valladolid,925.0,0,0.17567241803238962
+D. Brašanac,Osasuna,Leganés,59.0,1,0.6855122972590931
+R. Tapia,Celta de Vigo,Leganés,1510.0,1,0.7596110010358651
+M. Dmitrović,Sevilla,Leganés,1306.0,1,0.8482902506596737
+Ayoze Pérez,Real Betis,Villarreal,2491.0,1,0.6689052657773918
+Joan Jordán,Sevilla,Deportivo Alavés,434.0,1,0.6877035231991441
+M. Sylla,Deportivo Alavés,Real Valladolid,34.0,1,0.9932573091259832
+A. Batalla,Granada,Rayo Vallecano,1695.0,1,0.20392148613360947
+A. Januzaj,Sevilla,Las Palmas,241.0,0,0.18279763012090158
+Gerard Gumbau,Granada,Rayo Vallecano,2953.0,1,0.9927630904512573
+Adri Embarba,Almería,Rayo Vallecano,2730.0,1,0.8902199418485894
+Borja Iglesias,Real Betis,Celta de Vigo,472.0,1,0.6287212831253522
+Munir El Haddadi,Las Palmas,Leganés,2611.0,1,0.9500327997679358
+André Ferreira,Granada,Real Valladolid,1512.0,0,0.36810668747035236
+Andoni Gorosabel,Deportivo Alavés,Athletic Club,3140.0,1,0.9592005204172411
+Robin Le Normand,Real Sociedad,Atlético Madrid,2744.0,1,0.9999982098428989
+Jesús Vallejo,Granada,Real Madrid,141.0,0,0.0007592393834609946
+Asier Villalibre,Athletic Club,Deportivo Alavés,599.0,0,0.1866551189897214
+Carles Pérez,Celta de Vigo,Getafe,859.0,1,0.675877202512215
+Unai Núñez,Celta de Vigo,Athletic Club,3153.0,0,0.7874883148221622
+A. Ndiaye,Mallorca,Real Valladolid,488.0,0,0.3371558483575716
+Óscar Rodríguez,Getafe,Leganés,1101.0,1,0.6188925297182201
+Rafa Mir,Sevilla,Valencia,483.0,0,0.019998137504712823
+S. Amallah,Valencia,Real Valladolid,707.0,1,0.679761368874177
+Javi Hernández,Cádiz,Leganés,2816.0,1,0.9756489557230323
+Kike Pérez,Rayo Vallecano,Real Valladolid,960.0,1,0.9360837454908387
+Miguel de la Fuente,Deportivo Alavés,Leganés,91.0,1,0.48823280519495227
+Sergi Cardona,Las Palmas,Villarreal,3131.0,1,0.989438447971788
+Juanmi Latasa,Getafe,Real Valladolid,1763.0,1,0.9451755960756455
+Valery Fernández,Girona,Mallorca,661.0,0,0.030949832333989916
+Robert Navarro,Cádiz,Mallorca,1999.0,1,0.7177987592118609
+Javi López,Deportivo Alavés,Real Sociedad,2648.0,1,0.8737548500158239
+Juan Cruz,Real Betis,Leganés,101.0,1,0.8439006567747093
+Manu Sánchez,Celta de Vigo,Deportivo Alavés,2011.0,1,0.9960156065259688
+Ilaix Moriba,Getafe,Celta de Vigo,666.0,1,0.6706238357714093
+Carlos Romero,Villarreal,Espanyol,313.0,1,0.8902108291956906
+Peter González,Valencia,Getafe,730.0,0,0.32224240635150636
+Adrià Altimira,Villarreal,Leganés,852.0,1,0.7589275071161821
+José Ángel Carmona,Getafe,Sevilla,1510.0,1,0.7373388275760476
+C. Özkacar,Valencia,Real Valladolid,1795.0,0,0.42398922896767854
+Mario Martín,Real Madrid,Real Valladolid,27.0,1,0.9968443929817862
+L. Romero,Almería,Deportivo Alavés,496.0,0,0.02138095239046455
+E. Eyong,Cádiz,Villarreal,28.0,0,0.0017138318453390673
+Pablo Torre,Girona,Barcelona,843.0,0,0.08031642830456744
+Bryan Zaragoza,Granada,Osasuna,1846.0,1,0.8212281392560317
+G. Simeone,Deportivo Alavés,Atlético Madrid,706.0,1,0.9999398552651085
+A. Véliz,Sevilla,Espanyol,65.0,1,0.3889623643969845
+Vitor Roque,Barcelona,Real Betis,393.0,1,0.8051570613986938
+Álvaro Rodríguez,Real Madrid,Getafe,6.0,1,0.9774126764794225
+Juan Bernat,Villarreal,Getafe,276.0,0,0.3441186059869125
+Juanmi,Real Betis,Getafe,311.0,0,0.24406200238033907
+Luis Rioja,Deportivo Alavés,Valencia,29.0,1,0.869424272765245
+Carles Aleñà,Getafe,Deportivo Alavés,513.0,1,0.8853225095931438
+U. Sadiq,Real Sociedad,Valencia,264.0,1,0.4013745987044918
+J. Aidoo,Celta de Vigo,Real Valladolid,9.0,0,0.1179978369457852
+A. Danjuma,Villarreal,Girona,219.0,0,0.01885577577139221
+E. Boyomo,Real Valladolid,Osasuna,301.0,1,0.9958044254564685
+Iker Losada,Real Betis,Celta de Vigo,390.0,0,0.21519525337001033
+Ramón Terrats,Villarreal,Getafe,189.0,1,0.4419118127245771
+Urko González,Real Sociedad,Espanyol,46.0,1,0.524103886728699
+Pau Cabanes,Deportivo Alavés,Villarreal,221.0,0,0.002730836301246974

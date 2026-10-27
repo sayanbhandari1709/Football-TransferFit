@@ -1,0 +1,106 @@
+direction,transfer_date,player_id,player_name,price,market_value_at_transfer,is_loan,counterpart_club_id,counterpart_club_name,player_id_A,bridged
+out,2021-08-10,495625,Víctor Chust,,400000.0,True,2687.0,Cádiz CF,473366.0,True
+out,2021-08-11,405398,Takefusa Kubo,,15000000.0,True,237.0,RCD Mallorca,504301.0,True
+out,2021-08-14,164770,Raphaël Varane,40000000.0,70000000.0,False,985.0,Manchester United,408307.0,True
+out,2021-08-20,316264,Martin Ødegaard,35000000.0,40000000.0,False,11.0,Arsenal FC,,False
+out,2021-08-28,280730,Álvaro Odriozola,,10000000.0,True,430.0,ACF Fiorentina,278289.0,True
+in,2021-08-31,640428,Eduardo Camavinga,31000000.0,55000000.0,False,273.0,Stade Rennais FC,599551.0,True
+in,2022-06-30,298976,Borja Mayoral,,9000000.0,True,12.0,AS Roma,344120.0,True
+in,2022-06-30,405398,Takefusa Kubo,,7500000.0,True,237.0,RCD Mallorca,504301.0,True
+in,2022-06-30,627226,Reinier,,8000000.0,True,16.0,Borussia Dortmund,547492.0,True
+in,2022-06-30,280730,Álvaro Odriozola,,12000000.0,True,430.0,ACF Fiorentina,278289.0,True
+in,2022-06-30,495625,Víctor Chust,,2500000.0,True,2687.0,Cádiz CF,473366.0,True
+in,2022-07-01,413112,Aurélien Tchouaméni,80000000.0,60000000.0,False,162.0,AS Monaco,480145.0,True
+in,2022-07-01,86202,Antonio Rüdiger,0.0,40000000.0,False,631.0,Chelsea FC,14748.0,True
+in,2022-07-01,495621,Antonio Blanco,,5000000.0,False,6767.0,Real Madrid Castilla,473371.0,True
+in,2022-07-01,525299,Miguel Gutiérrez,,6000000.0,False,6767.0,Real Madrid Castilla,536142.0,True
+in,2022-07-01,623521,Juanmi Latasa,,1000000.0,False,6767.0,Real Madrid Castilla,558779.0,True
+out,2022-07-06,495625,Víctor Chust,1000000.0,2500000.0,False,2687.0,Cádiz CF,473366.0,True
+out,2022-07-07,39381,Gareth Bale,0.0,3000000.0,False,51828.0,Los Angeles FC,,False
+out,2022-07-08,257462,Luka Jović,0.0,16000000.0,False,430.0,ACF Fiorentina,,False
+out,2022-07-19,405398,Takefusa Kubo,6500000.0,7500000.0,False,681.0,Real Sociedad,504301.0,True
+out,2022-08-01,298976,Borja Mayoral,10000000.0,9000000.0,False,3709.0,Getafe CF,344120.0,True
+out,2022-08-05,525299,Miguel Gutiérrez,11000000.0,6000000.0,False,12321.0,Girona FC,536142.0,True
+out,2022-08-07,85288,Isco,0.0,7500000.0,False,368.0,Sevilla FC,3563.0,True
+out,2022-08-18,495621,Antonio Blanco,,5000000.0,True,2687.0,Cádiz CF,473371.0,True
+out,2022-08-19,627226,Reinier,,8000000.0,True,12321.0,Girona FC,547492.0,True
+out,2022-08-22,16306,Casemiro,70650000.0,40000000.0,False,985.0,Manchester United,40756.0,True
+out,2022-08-26,623521,Juanmi Latasa,,1000000.0,True,3709.0,Getafe CF,558779.0,True
+out,2022-09-01,44501,Marcelo,0.0,3000000.0,False,683.0,Olympiacos Piraeus,,False
+in,2023-01-11,495621,Antonio Blanco,,3500000.0,True,2687.0,Cádiz CF,473371.0,True
+out,2023-01-12,495621,Antonio Blanco,,3500000.0,True,1108.0,Deportivo Alavés,473371.0,True
+in,2023-06-30,627226,Reinier,,2000000.0,True,12321.0,Girona FC,547492.0,True
+in,2023-06-30,495621,Antonio Blanco,,2500000.0,True,1108.0,Deportivo Alavés,473371.0,True
+in,2023-06-30,314678,Brahim Díaz,,20000000.0,True,5.0,AC Milan,404397.0,True
+in,2023-07-01,341264,Fran García,5000000.0,12000000.0,False,367.0,Rayo Vallecano,422517.0,True
+out,2023-07-01,18922,Karim Benzema,0.0,25000000.0,False,8023.0,Al-Ittihad Club,3321.0,True
+in,2023-07-01,81999,Joselu,500000.0,6000000.0,True,714.0,RCD Espanyol Barcelona,3327.0,True
+out,2023-07-01,50202,Eden Hazard,,5000000.0,False,515.0,Without Club,25707.0,True
+in,2023-07-01,537762,Sergio Arribas,,5000000.0,False,6767.0,Real Madrid Castilla,536150.0,True
+in,2023-07-01,581678,Jude Bellingham,127000000.0,120000000.0,False,16.0,Borussia Dortmund,617894.0,True
+in,2023-07-01,662261,Rafa Marín,,500000.0,False,6767.0,Real Madrid Castilla,601275.0,True
+out,2023-07-06,296622,Marco Asensio,0.0,25000000.0,False,583.0,Paris Saint-Germain,288091.0,True
+in,2023-07-06,861410,Arda Güler,28000000.0,15000000.0,False,36.0,Fenerbahce,703740.0,True
+out,2023-07-15,251896,Jesús Vallejo,,2000000.0,True,16795.0,Granada CF,282441.0,True
+out,2023-07-25,495621,Antonio Blanco,4000000.0,5000000.0,False,1108.0,Deportivo Alavés,473371.0,True
+out,2023-07-28,662261,Rafa Marín,,500000.0,True,1108.0,Deportivo Alavés,601275.0,True
+out,2023-08-09,537762,Sergio Arribas,6000000.0,5000000.0,False,3302.0,UD Almería,536150.0,True
+in,2023-08-14,192279,Kepa Arrizabalaga,1000000.0,18000000.0,True,631.0,Chelsea FC,3397.0,True
+out,2023-09-01,280730,Álvaro Odriozola,3000000.0,5000000.0,False,681.0,Real Sociedad,278289.0,True
+out,2023-09-01,225020,Mariano Díaz,0.0,2500000.0,False,368.0,Sevilla FC,5167.0,True
+out,2023-09-01,627226,Reinier,,2000000.0,True,8970.0,Frosinone Calcio,547492.0,True
+in,2024-06-30,662261,Rafa Marín,,7500000.0,True,1108.0,Deportivo Alavés,601275.0,True
+in,2024-06-30,251896,Jesús Vallejo,,1000000.0,True,16795.0,Granada CF,282441.0,True
+in,2024-06-30,627226,Reinier,,3500000.0,True,8970.0,Frosinone Calcio,547492.0,True
+out,2024-06-30,192279,Kepa Arrizabalaga,,12000000.0,True,631.0,Chelsea FC,3397.0,True
+out,2024-06-30,81999,Joselu,,5000000.0,True,714.0,RCD Espanyol Barcelona,3327.0,True
+in,2024-06-30,623521,Juanmi Latasa,,2800000.0,True,3709.0,Getafe CF,558779.0,True
+in,2024-07-01,948273,Mario Martín,,300000.0,False,6767.0,Real Madrid Castilla,626229.0,True
+in,2024-07-01,81999,Joselu,1500000.0,5000000.0,False,714.0,RCD Espanyol Barcelona,3327.0,True
+in,2024-07-01,342229,Kylian Mbappé,0.0,180000000.0,False,583.0,Paris Saint-Germain,353833.0,True
+in,2024-07-01,935245,Raúl Asencio,,300000.0,False,6767.0,Real Madrid Castilla,787348.0,True
+in,2024-07-01,948275,Álvaro Rodríguez,,3500000.0,False,6767.0,Real Madrid Castilla,788748.0,True
+in,2024-07-01,948294,Nico Paz,,10000000.0,False,6767.0,Real Madrid Castilla,626253.0,True
+out,2024-07-02,81999,Joselu,1500000.0,5000000.0,False,6297.0,Al-Gharafa SC,3327.0,True
+out,2024-07-06,31909,Toni Kroos,,10000000.0,False,,,14723.0,True
+out,2024-07-10,662261,Rafa Marín,12000000.0,7500000.0,False,6195.0,SSC Napoli,601275.0,True
+out,2024-07-18,58884,Nacho Fernández,0.0,3000000.0,False,26069.0,Al-Qadsiah FC,3304.0,True
+in,2024-07-21,971570,Endrick,47500000.0,60000000.0,False,1023.0,Sociedade Esportiva Palmeiras,764899.0,True
+out,2024-08-14,623521,Juanmi Latasa,2500000.0,2800000.0,False,366.0,Real Valladolid CF,558779.0,True
+out,2024-08-23,948273,Mario Martín,,300000.0,True,366.0,Real Valladolid CF,626229.0,True
+out,2024-08-25,948294,Nico Paz,66000000.0,10000000.0,False,1047.0,Como 1907,626253.0,True
+out,2024-08-29,948275,Álvaro Rodríguez,,3500000.0,True,3709.0,Getafe CF,788748.0,True
+out,2024-08-30,627226,Reinier,,3500000.0,True,16795.0,Granada CF,547492.0,True
+in,2025-05-31,948273,Mario Martín,,1500000.0,True,366.0,Real Valladolid CF,626229.0,True
+in,2025-06-01,314353,Trent Alexander-Arnold,10000000.0,75000000.0,False,31.0,Liverpool FC,,False
+in,2025-06-01,890290,Dean Huijsen,62500000.0,60000000.0,False,989.0,AFC Bournemouth,,False
+in,2025-06-01,935230,Gonzalo García,,5000000.0,False,6767.0,Real Madrid Castilla,626252.0,True
+in,2025-06-30,627226,Reinier,,1500000.0,True,16795.0,Granada CF,547492.0,True
+in,2025-06-30,948275,Álvaro Rodríguez,,2500000.0,True,3709.0,Getafe CF,788748.0,True
+in,2025-07-01,935231,Víctor Muñoz,,1000000.0,False,6767.0,Real Madrid Castilla,780739.0,True
+out,2025-07-11,935231,Víctor Muñoz,25000000.0,1000000.0,False,331.0,CA Osasuna,780739.0,True
+out,2025-07-14,27992,Luka Modrić,0.0,4000000.0,False,5.0,AC Milan,8287.0,True
+out,2025-07-14,251896,Jesús Vallejo,0.0,1000000.0,False,1532.0,Albacete Balompié,282441.0,True
+in,2025-07-14,811778,Álvaro Carreras,50000000.0,35000000.0,False,294.0,SL Benfica,743429.0,True
+out,2025-07-22,948275,Álvaro Rodríguez,14500000.0,2500000.0,False,1531.0,Elche CF,788748.0,True
+out,2025-07-29,948273,Mario Martín,,1500000.0,True,3709.0,Getafe CF,626229.0,True
+out,2025-08-08,627226,Reinier,0.0,1500000.0,False,330.0,Clube Atlético Mineiro,547492.0,True
+in,2025-08-14,1057316,Franco Mastantuono,45000000.0,30000000.0,False,209.0,CA River Plate,,False
+out,2025-08-26,221316,Lucas Vázquez,0.0,3000000.0,False,15.0,Bayer 04 Leverkusen,4498.0,True
+out,2026-01-01,971570,Endrick,,25000000.0,True,1041.0,Olympique Lyon,764899.0,True
+in,2026-03-01,1375227,Thiago Pitarch,,3000000.0,False,6767.0,Real Madrid Castilla,849699.0,True
+in,2026-06-30,971570,Endrick,,40000000.0,True,1041.0,Olympique Lyon,764899.0,True
+in,2026-06-30,948273,Mario Martín,,10000000.0,True,3709.0,Getafe CF,626229.0,True
+in,2026-07-01,284857,Marc Cucurella,55000000.0,50000000.0,False,631.0,Chelsea FC,,False
+in,2026-07-01,935281,David Jiménez,,5000000.0,False,6767.0,Real Madrid Castilla,626248.0,True
+in,2026-07-01,357119,Ibrahima Konaté,0.0,45000000.0,False,31.0,Liverpool FC,,False
+in,2026-07-01,1055220,Fran González,,3000000.0,False,6767.0,Real Madrid Castilla,859506.0,True
+in,2026-07-01,241641,Bernardo Silva,0.0,22000000.0,False,281.0,Manchester City,,False
+out,2026-07-01,319745,Dani Ceballos,,7000000.0,False,515.0,Without Club,326523.0,True
+out,2026-07-01,59016,David Alaba,,3500000.0,False,515.0,Without Club,14724.0,True
+in,2026-07-01,646824,Manuel Ángel,,5000000.0,False,6767.0,Real Madrid Castilla,,False
+in,2026-07-01,948272,César Palacios,,7500000.0,False,6767.0,Real Madrid Castilla,,False
+out,2026-07-01,948273,Mario Martín,3500000.0,10000000.0,False,3709.0,Getafe CF,626229.0,True
+out,2026-07-01,138927,Daniel Carvajal,,6000000.0,False,515.0,Without Club,4501.0,True
+in,2026-07-05,321528,Denzel Dumfries,20000000.0,25000000.0,False,46.0,Inter Milan,,False
+out,2026-07-08,341264,Fran García,4000000.0,10000000.0,False,150.0,Real Betis Balompié,422517.0,True

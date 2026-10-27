@@ -1,0 +1,14 @@
+table,rows,columns,bytes
+competitions,1,8,5086
+seasons,3,7,4643
+super_seasons,3,4,3042
+areas,263,5,8206
+teams,24,11,7873
+players,1265,14,55349
+player_careers,2223,6,21859
+player_valuations,8433,8,111420
+player_season_stats,1805,9,112445
+player_season_stats_total,1805,107,248355
+player_season_stats_average,1805,100,316214
+player_season_stats_per90,1805,97,533393
+player_season_stats_percent,1805,35,135871
